@@ -2,7 +2,7 @@
 
 ## Overview
 
-SystemMonitorScheduler is a Python script designed for automating both system monitoring and backup files. This tool helps in managing system performance and backups efficiently, with features including:
+**SystemMonitorScheduler is a Python script designed for automating both system monitoring and backup files. This tool helps in managing system performance and backups efficiently, with features including:
 
 
 ```plaintext
