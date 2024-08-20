@@ -1,0 +1,37 @@
+#!/bin/sh
+
+# Define the path to the Desktop directory
+DESKTOP_DIR="$HOME/Desktop/realTime"
+
+# Check if a filename is provided as an argument
+if [ $# -eq 0 ]; then
+  echo "Usage: $0 filename"
+  exit 1
+fi
+
+# Get the filename from the arguments
+FILENAME=$1
+
+# Construct the full path to the file
+FILE_PATH="$DESKTOP_DIR/$FILENAME"
+
+# Check if the file exists
+if0 [ ! -f "$FILE_PATH" ]; then
+  echo "File not found!"
+  exit 1
+fi
+
+# Display the contents of the file
+#cat "$FILE_PATH"
+
+
+# Open the file with nano editor
+#nano "$FILE_PATH"
+
+# Open the file with the default application
+xdg-open "$FILE_PATH"
+
+
+
+
+#xdg-open "$HOME/Desktop/realTime/test.c"

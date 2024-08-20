@@ -1,0 +1,1843 @@
+2024-08-17 11:59:56,241 - Running system health checks...
+2024-08-17 11:59:57,246 - High network traffic detected: 3323.43 MB
+2024-08-17 12:00:00,591 - Health checks completed.
+2024-08-17 12:00:01,271 - Running system health checks...
+2024-08-17 12:00:02,273 - High network traffic detected: 3345.92 MB
+2024-08-17 12:00:08,206 - Health checks completed.
+2024-08-17 16:59:01,533 - Running system health checks...
+2024-08-17 16:59:02,538 - High network traffic detected: 3758.56 MB
+2024-08-17 16:59:05,195 - Health checks completed.
+2024-08-17 17:00:01,814 - Running system health checks...
+2024-08-17 17:00:02,817 - High CPU usage detected: 29.4%
+2024-08-17 17:00:05,298 - High network traffic detected: 3758.66 MB
+2024-08-17 17:00:05,298 - Health checks completed.
+2024-08-17 17:01:01,817 - Running system health checks...
+2024-08-17 17:01:02,826 - High network traffic detected: 3759.97 MB
+2024-08-17 17:01:02,827 - Health checks completed.
+2024-08-17 17:02:01,354 - Running system health checks...
+2024-08-17 17:02:02,356 - High CPU usage detected: 59.7%
+2024-08-17 17:02:05,018 - High network traffic detected: 3770.82 MB
+2024-08-17 17:02:05,018 - Health checks completed.
+2024-08-17 17:03:01,425 - Running system health checks...
+2024-08-17 17:03:02,431 - High network traffic detected: 3770.88 MB
+2024-08-17 17:03:02,433 - Health checks completed.
+2024-08-17 17:12:01,917 - Running system health checks...
+2024-08-17 17:12:01,917 - Running system health checks...
+2024-08-17 17:12:02,921 - High network traffic detected: 3809.61 MB
+2024-08-17 17:12:02,922 - High network traffic detected: 3809.61 MB
+2024-08-17 17:12:05,538 - Health checks completed.
+2024-08-17 17:12:05,904 - Health checks completed.
+2024-08-17 17:22:01,729 - Running system health checks...
+2024-08-17 17:22:02,731 - High CPU usage detected: 24.5%
+2024-08-17 17:22:05,069 - High network traffic detected: 3821.46 MB
+2024-08-17 17:22:05,069 - Health checks completed.
+2024-08-17 17:31:01,553 - Running system health checks...
+2024-08-17 17:31:01,600 - Running system health checks...
+2024-08-17 17:31:01,620 - Running system health checks...
+2024-08-17 17:31:01,647 - Running system health checks...
+2024-08-17 17:31:01,689 - Running system health checks...
+2024-08-17 17:31:01,697 - Running system health checks...
+2024-08-17 17:31:01,707 - Running system health checks...
+2024-08-17 17:31:01,720 - Running system health checks...
+2024-08-17 17:31:01,745 - Running system health checks...
+2024-08-17 17:31:01,749 - Running system health checks...
+2024-08-17 17:31:01,750 - Running system health checks...
+2024-08-17 17:31:01,780 - Running system health checks...
+2024-08-17 17:31:01,788 - Running system health checks...
+2024-08-17 17:31:01,811 - Running system health checks...
+2024-08-17 17:31:01,926 - Running system health checks...
+2024-08-17 17:31:01,985 - Running system health checks...
+2024-08-17 17:31:02,018 - Running system health checks...
+2024-08-17 17:31:02,039 - Running system health checks...
+2024-08-17 17:31:02,067 - Running system health checks...
+2024-08-17 17:31:02,083 - Running system health checks...
+2024-08-17 17:31:02,099 - Running system health checks...
+2024-08-17 17:31:02,107 - Running system health checks...
+2024-08-17 17:31:02,121 - Running system health checks...
+2024-08-17 17:31:02,121 - Running system health checks...
+2024-08-17 17:31:02,161 - Running system health checks...
+2024-08-17 17:31:02,222 - Running system health checks...
+2024-08-17 17:31:02,226 - Running system health checks...
+2024-08-17 17:31:02,229 - Running system health checks...
+2024-08-17 17:31:02,257 - Running system health checks...
+2024-08-17 17:31:02,261 - Running system health checks...
+2024-08-17 17:31:02,261 - Running system health checks...
+2024-08-17 17:31:02,269 - Running system health checks...
+2024-08-17 17:31:02,288 - Running system health checks...
+2024-08-17 17:31:02,333 - Running system health checks...
+2024-08-17 17:31:02,346 - Running system health checks...
+2024-08-17 17:31:02,404 - Running system health checks...
+2024-08-17 17:31:02,443 - Running system health checks...
+2024-08-17 17:31:02,444 - Running system health checks...
+2024-08-17 17:31:02,481 - Running system health checks...
+2024-08-17 17:31:02,511 - Running system health checks...
+2024-08-17 17:31:02,542 - Running system health checks...
+2024-08-17 17:31:02,547 - Running system health checks...
+2024-08-17 17:31:02,554 - Running system health checks...
+2024-08-17 17:31:02,557 - High CPU usage detected: 99.2%
+2024-08-17 17:31:02,558 - High memory usage detected: 91.9%
+2024-08-17 17:31:02,559 - High network traffic detected: 3875.64 MB
+2024-08-17 17:31:02,559 - Health checks completed.
+2024-08-17 17:31:02,644 - High CPU usage detected: 99.0%
+2024-08-17 17:31:02,646 - High CPU usage detected: 99.0%
+2024-08-17 17:31:02,648 - High memory usage detected: 92.3%
+2024-08-17 17:31:02,648 - High memory usage detected: 92.3%
+2024-08-17 17:31:02,648 - High CPU usage detected: 99.0%
+2024-08-17 17:31:02,649 - High network traffic detected: 3875.64 MB
+2024-08-17 17:31:02,649 - High network traffic detected: 3875.64 MB
+2024-08-17 17:31:02,649 - High memory usage detected: 92.3%
+2024-08-17 17:31:02,649 - Health checks completed.
+2024-08-17 17:31:02,649 - Health checks completed.
+2024-08-17 17:31:02,691 - High CPU usage detected: 97.0%
+2024-08-17 17:31:02,699 - High CPU usage detected: 96.7%
+2024-08-17 17:31:02,709 - High CPU usage detected: 96.2%
+2024-08-17 17:31:02,721 - High CPU usage detected: 95.7%
+2024-08-17 17:31:02,747 - High CPU usage detected: 95.2%
+2024-08-17 17:31:02,750 - High CPU usage detected: 95.2%
+2024-08-17 17:31:02,752 - High CPU usage detected: 95.2%
+2024-08-17 17:31:02,776 - Running system health checks...
+2024-08-17 17:31:02,781 - High CPU usage detected: 94.9%
+2024-08-17 17:31:02,798 - High CPU usage detected: 94.9%
+2024-08-17 17:31:02,813 - High CPU usage detected: 94.9%
+2024-08-17 17:31:02,862 - Running system health checks...
+2024-08-17 17:31:02,928 - High CPU usage detected: 90.3%
+2024-08-17 17:31:02,944 - Running system health checks...
+2024-08-17 17:31:02,986 - Running system health checks...
+2024-08-17 17:31:02,987 - High CPU usage detected: 89.4%
+2024-08-17 17:31:03,010 - Running system health checks...
+2024-08-17 17:31:03,020 - High CPU usage detected: 88.6%
+2024-08-17 17:31:03,031 - Running system health checks...
+2024-08-17 17:31:03,041 - High CPU usage detected: 88.0%
+2024-08-17 17:31:03,070 - High CPU usage detected: 85.9%
+2024-08-17 17:31:03,086 - High CPU usage detected: 85.4%
+2024-08-17 17:31:03,101 - High CPU usage detected: 85.1%
+2024-08-17 17:31:03,109 - High CPU usage detected: 85.0%
+2024-08-17 17:31:03,122 - High CPU usage detected: 85.1%
+2024-08-17 17:31:03,126 - Running system health checks...
+2024-08-17 17:31:03,129 - High CPU usage detected: 85.2%
+2024-08-17 17:31:03,163 - High CPU usage detected: 84.7%
+2024-08-17 17:31:03,225 - High CPU usage detected: 83.0%
+2024-08-17 17:31:03,227 - High CPU usage detected: 82.8%
+2024-08-17 17:31:03,235 - High CPU usage detected: 82.8%
+2024-08-17 17:31:03,259 - High CPU usage detected: 82.7%
+2024-08-17 17:31:03,263 - High CPU usage detected: 82.6%
+2024-08-17 17:31:03,263 - High CPU usage detected: 82.6%
+2024-08-17 17:31:03,271 - High CPU usage detected: 82.6%
+2024-08-17 17:31:03,290 - High CPU usage detected: 82.2%
+2024-08-17 17:31:03,335 - High CPU usage detected: 81.6%
+2024-08-17 17:31:03,347 - High CPU usage detected: 81.5%
+2024-08-17 17:31:03,368 - Running system health checks...
+2024-08-17 17:31:03,406 - High CPU usage detected: 80.4%
+2024-08-17 17:31:03,445 - High CPU usage detected: 80.2%
+2024-08-17 17:31:03,446 - High CPU usage detected: 80.2%
+2024-08-17 17:31:03,483 - High CPU usage detected: 80.2%
+2024-08-17 17:31:03,490 - Running system health checks...
+2024-08-17 17:31:03,506 - Running system health checks...
+2024-08-17 17:31:03,512 - High CPU usage detected: 80.1%
+2024-08-17 17:31:03,520 - Running system health checks...
+2024-08-17 17:31:03,538 - Running system health checks...
+2024-08-17 17:31:03,544 - High CPU usage detected: 79.7%
+2024-08-17 17:31:03,549 - High CPU usage detected: 79.8%
+2024-08-17 17:31:03,555 - High CPU usage detected: 79.7%
+2024-08-17 17:31:03,636 - Running system health checks...
+2024-08-17 17:31:03,681 - Running system health checks...
+2024-08-17 17:31:03,734 - Running system health checks...
+2024-08-17 17:31:03,778 - High CPU usage detected: 77.7%
+2024-08-17 17:31:03,821 - Running system health checks...
+2024-08-17 17:31:03,864 - High CPU usage detected: 80.5%
+2024-08-17 17:31:03,869 - Running system health checks...
+2024-08-17 17:31:03,886 - Running system health checks...
+2024-08-17 17:31:03,887 - Running system health checks...
+2024-08-17 17:31:03,946 - High CPU usage detected: 79.4%
+2024-08-17 17:31:03,989 - High CPU usage detected: 77.8%
+2024-08-17 17:31:04,012 - High CPU usage detected: 77.8%
+2024-08-17 17:31:04,038 - High CPU usage detected: 78.7%
+2024-08-17 17:31:04,060 - Running system health checks...
+2024-08-17 17:31:04,094 - Running system health checks...
+2024-08-17 17:31:04,128 - High CPU usage detected: 79.2%
+2024-08-17 17:31:04,177 - Running system health checks...
+2024-08-17 17:31:04,250 - Running system health checks...
+2024-08-17 17:31:04,274 - Running system health checks...
+2024-08-17 17:31:04,297 - Running system health checks...
+2024-08-17 17:31:04,331 - Running system health checks...
+2024-08-17 17:31:04,338 - Running system health checks...
+2024-08-17 17:31:04,351 - Running system health checks...
+2024-08-17 17:31:04,369 - High CPU usage detected: 73.8%
+2024-08-17 17:31:04,444 - Running system health checks...
+2024-08-17 17:31:04,492 - High CPU usage detected: 67.6%
+2024-08-17 17:31:04,507 - High CPU usage detected: 66.9%
+2024-08-17 17:31:04,521 - High CPU usage detected: 67.0%
+2024-08-17 17:31:04,542 - High CPU usage detected: 67.0%
+2024-08-17 17:31:04,624 - Running system health checks...
+2024-08-17 17:31:04,637 - High CPU usage detected: 67.8%
+2024-08-17 17:31:04,673 - Running system health checks...
+2024-08-17 17:31:04,683 - High CPU usage detected: 68.7%
+2024-08-17 17:31:04,688 - Running system health checks...
+2024-08-17 17:31:04,735 - High CPU usage detected: 71.0%
+2024-08-17 17:31:04,822 - High CPU usage detected: 68.5%
+2024-08-17 17:31:04,862 - Running system health checks...
+2024-08-17 17:31:04,862 - Running system health checks...
+2024-08-17 17:31:04,871 - High CPU usage detected: 67.0%
+2024-08-17 17:31:04,887 - High CPU usage detected: 66.8%
+2024-08-17 17:31:04,889 - High CPU usage detected: 67.0%
+2024-08-17 17:31:04,946 - Running system health checks...
+2024-08-17 17:31:04,958 - Running system health checks...
+2024-08-17 17:31:04,979 - Running system health checks...
+2024-08-17 17:31:04,994 - Running system health checks...
+2024-08-17 17:31:05,063 - High CPU usage detected: 68.1%
+2024-08-17 17:31:05,096 - High CPU usage detected: 67.3%
+2024-08-17 17:31:05,179 - High CPU usage detected: 67.8%
+2024-08-17 17:31:05,182 - Running system health checks...
+2024-08-17 17:31:05,188 - Running system health checks...
+2024-08-17 17:31:05,222 - Running system health checks...
+2024-08-17 17:31:05,251 - High CPU usage detected: 69.5%
+2024-08-17 17:31:05,275 - High CPU usage detected: 70.0%
+2024-08-17 17:31:05,280 - Running system health checks...
+2024-08-17 17:31:05,285 - Running system health checks...
+2024-08-17 17:31:05,289 - Running system health checks...
+2024-08-17 17:31:05,298 - High CPU usage detected: 70.0%
+2024-08-17 17:31:05,333 - High CPU usage detected: 70.1%
+2024-08-17 17:31:05,353 - High CPU usage detected: 70.2%
+2024-08-17 17:31:05,355 - High CPU usage detected: 69.7%
+2024-08-17 17:31:05,455 - High CPU usage detected: 72.4%
+2024-08-17 17:31:05,479 - Running system health checks...
+2024-08-17 17:31:05,625 - High CPU usage detected: 66.8%
+2024-08-17 17:31:05,632 - Running system health checks...
+2024-08-17 17:31:05,635 - Running system health checks...
+2024-08-17 17:31:05,646 - Running system health checks...
+2024-08-17 17:31:05,675 - High CPU usage detected: 64.1%
+2024-08-17 17:31:05,691 - High CPU usage detected: 63.4%
+2024-08-17 17:31:05,762 - Running system health checks...
+2024-08-17 17:31:05,796 - Running system health checks...
+2024-08-17 17:31:05,841 - Running system health checks...
+2024-08-17 17:31:05,863 - High CPU usage detected: 65.9%
+2024-08-17 17:31:05,863 - High CPU usage detected: 65.9%
+2024-08-17 17:31:05,882 - Running system health checks...
+2024-08-17 17:31:05,906 - Running system health checks...
+2024-08-17 17:31:05,909 - Running system health checks...
+2024-08-17 17:31:05,918 - Running system health checks...
+2024-08-17 17:31:05,933 - Running system health checks...
+2024-08-17 17:31:05,944 - Running system health checks...
+2024-08-17 17:31:05,947 - High CPU usage detected: 66.8%
+2024-08-17 17:31:05,954 - Running system health checks...
+2024-08-17 17:31:05,959 - High CPU usage detected: 66.8%
+2024-08-17 17:31:05,972 - Running system health checks...
+2024-08-17 17:31:05,980 - Running system health checks...
+2024-08-17 17:31:05,981 - High CPU usage detected: 67.0%
+2024-08-17 17:31:05,989 - Running system health checks...
+2024-08-17 17:31:05,996 - High CPU usage detected: 67.4%
+2024-08-17 17:31:06,135 - Running system health checks...
+2024-08-17 17:31:06,170 - Running system health checks...
+2024-08-17 17:31:06,178 - Running system health checks...
+2024-08-17 17:31:06,178 - Running system health checks...
+2024-08-17 17:31:06,187 - High CPU usage detected: 76.4%
+2024-08-17 17:31:06,190 - High CPU usage detected: 76.3%
+2024-08-17 17:31:06,202 - Running system health checks...
+2024-08-17 17:31:06,224 - High CPU usage detected: 77.0%
+2024-08-17 17:31:06,254 - Running system health checks...
+2024-08-17 17:31:06,264 - High memory usage detected: 97.9%
+2024-08-17 17:31:06,265 - High network traffic detected: 3876.23 MB
+2024-08-17 17:31:06,265 - Health checks completed.
+2024-08-17 17:31:06,265 - High memory usage detected: 97.9%
+2024-08-17 17:31:06,266 - High network traffic detected: 3876.23 MB
+2024-08-17 17:31:06,266 - Health checks completed.
+2024-08-17 17:31:06,273 - High memory usage detected: 97.9%
+2024-08-17 17:31:06,274 - High network traffic detected: 3876.23 MB
+2024-08-17 17:31:06,275 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,276 - High network traffic detected: 3876.23 MB
+2024-08-17 17:31:06,276 - Health checks completed.
+2024-08-17 17:31:06,276 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,276 - High network traffic detected: 3876.23 MB
+2024-08-17 17:31:06,277 - Health checks completed.
+2024-08-17 17:31:06,277 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,278 - High network traffic detected: 3876.23 MB
+2024-08-17 17:31:06,278 - Health checks completed.
+2024-08-17 17:31:06,281 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,282 - High network traffic detected: 3876.23 MB
+2024-08-17 17:31:06,282 - Health checks completed.
+2024-08-17 17:31:06,285 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,285 - High CPU usage detected: 77.6%
+2024-08-17 17:31:06,285 - High network traffic detected: 3876.23 MB
+2024-08-17 17:31:06,285 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,285 - Health checks completed.
+2024-08-17 17:31:06,286 - High network traffic detected: 3876.23 MB
+2024-08-17 17:31:06,286 - Health checks completed.
+2024-08-17 17:31:06,289 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,290 - High network traffic detected: 3876.23 MB
+2024-08-17 17:31:06,290 - Health checks completed.
+2024-08-17 17:31:06,291 - High CPU usage detected: 77.7%
+2024-08-17 17:31:06,291 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,291 - High network traffic detected: 3876.23 MB
+2024-08-17 17:31:06,292 - Health checks completed.
+2024-08-17 17:31:06,293 - High CPU usage detected: 77.7%
+2024-08-17 17:31:06,293 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,294 - High network traffic detected: 3876.23 MB
+2024-08-17 17:31:06,294 - Health checks completed.
+2024-08-17 17:31:06,297 - High memory usage detected: 98.1%
+2024-08-17 17:31:06,297 - High memory usage detected: 98.1%
+2024-08-17 17:31:06,297 - High memory usage detected: 98.1%
+2024-08-17 17:31:06,297 - High network traffic detected: 3876.23 MB
+2024-08-17 17:31:06,297 - High network traffic detected: 3876.23 MB
+2024-08-17 17:31:06,297 - Health checks completed.
+2024-08-17 17:31:06,297 - Health checks completed.
+2024-08-17 17:31:06,297 - High network traffic detected: 3876.23 MB
+2024-08-17 17:31:06,297 - Health checks completed.
+2024-08-17 17:31:06,301 - High memory usage detected: 98.1%
+2024-08-17 17:31:06,301 - High memory usage detected: 98.1%
+2024-08-17 17:31:06,301 - High memory usage detected: 98.1%
+2024-08-17 17:31:06,301 - High network traffic detected: 3876.23 MB
+2024-08-17 17:31:06,301 - Health checks completed.
+2024-08-17 17:31:06,301 - High network traffic detected: 3876.23 MB
+2024-08-17 17:31:06,302 - Health checks completed.
+2024-08-17 17:31:06,302 - High network traffic detected: 3876.23 MB
+2024-08-17 17:31:06,302 - Health checks completed.
+2024-08-17 17:31:06,306 - High memory usage detected: 98.1%
+2024-08-17 17:31:06,306 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,307 - Health checks completed.
+2024-08-17 17:31:06,317 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,317 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,317 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,317 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,317 - Health checks completed.
+2024-08-17 17:31:06,317 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,318 - Health checks completed.
+2024-08-17 17:31:06,318 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,318 - Health checks completed.
+2024-08-17 17:31:06,321 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,321 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,322 - Health checks completed.
+2024-08-17 17:31:06,325 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,325 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,325 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,325 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,325 - Health checks completed.
+2024-08-17 17:31:06,325 - Health checks completed.
+2024-08-17 17:31:06,329 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,329 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,330 - Health checks completed.
+2024-08-17 17:31:06,333 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,333 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,333 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,333 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,333 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,333 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,333 - Health checks completed.
+2024-08-17 17:31:06,333 - Health checks completed.
+2024-08-17 17:31:06,333 - Health checks completed.
+2024-08-17 17:31:06,337 - High memory usage detected: 98.1%
+2024-08-17 17:31:06,337 - High memory usage detected: 98.1%
+2024-08-17 17:31:06,337 - High memory usage detected: 98.1%
+2024-08-17 17:31:06,337 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,337 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,337 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,338 - Health checks completed.
+2024-08-17 17:31:06,338 - Health checks completed.
+2024-08-17 17:31:06,338 - Health checks completed.
+2024-08-17 17:31:06,341 - High memory usage detected: 98.1%
+2024-08-17 17:31:06,341 - High memory usage detected: 98.1%
+2024-08-17 17:31:06,341 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,341 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,341 - Health checks completed.
+2024-08-17 17:31:06,342 - Health checks completed.
+2024-08-17 17:31:06,345 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,345 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,345 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,345 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,345 - Health checks completed.
+2024-08-17 17:31:06,345 - Health checks completed.
+2024-08-17 17:31:06,349 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,349 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,349 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,349 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,350 - Health checks completed.
+2024-08-17 17:31:06,350 - Health checks completed.
+2024-08-17 17:31:06,350 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,350 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,351 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,351 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,351 - Health checks completed.
+2024-08-17 17:31:06,351 - Health checks completed.
+2024-08-17 17:31:06,357 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,376 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,377 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,377 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,377 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,377 - Health checks completed.
+2024-08-17 17:31:06,377 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,377 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,377 - Health checks completed.
+2024-08-17 17:31:06,377 - Health checks completed.
+2024-08-17 17:31:06,378 - High memory usage detected: 98.0%
+2024-08-17 17:31:06,379 - High network traffic detected: 3876.24 MB
+2024-08-17 17:31:06,379 - Health checks completed.
+2024-08-17 17:31:06,393 - High memory usage detected: 97.6%
+2024-08-17 17:31:06,393 - High network traffic detected: 3876.25 MB
+2024-08-17 17:31:06,393 - Health checks completed.
+2024-08-17 17:31:06,397 - High memory usage detected: 97.6%
+2024-08-17 17:31:06,397 - High memory usage detected: 97.6%
+2024-08-17 17:31:06,397 - High network traffic detected: 3876.25 MB
+2024-08-17 17:31:06,397 - Health checks completed.
+2024-08-17 17:31:06,397 - High network traffic detected: 3876.25 MB
+2024-08-17 17:31:06,398 - Health checks completed.
+2024-08-17 17:31:06,410 - High memory usage detected: 97.2%
+2024-08-17 17:31:06,410 - High memory usage detected: 97.2%
+2024-08-17 17:31:06,410 - High memory usage detected: 97.2%
+2024-08-17 17:31:06,410 - High network traffic detected: 3876.25 MB
+2024-08-17 17:31:06,410 - Health checks completed.
+2024-08-17 17:31:06,410 - High network traffic detected: 3876.25 MB
+2024-08-17 17:31:06,410 - Health checks completed.
+2024-08-17 17:31:06,410 - High network traffic detected: 3876.25 MB
+2024-08-17 17:31:06,411 - Health checks completed.
+2024-08-17 17:31:06,484 - High CPU usage detected: 84.6%
+2024-08-17 17:31:06,484 - High memory usage detected: 94.3%
+2024-08-17 17:31:06,485 - High network traffic detected: 3876.26 MB
+2024-08-17 17:31:06,485 - Health checks completed.
+2024-08-17 17:31:06,489 - Health checks completed.
+2024-08-17 17:31:06,533 - High network traffic detected: 3876.27 MB
+2024-08-17 17:31:06,533 - Health checks completed.
+2024-08-17 17:31:06,543 - Running system health checks...
+2024-08-17 17:31:06,567 - Running system health checks...
+2024-08-17 17:31:06,578 - Running system health checks...
+2024-08-17 17:31:06,601 - High memory usage detected: 86.5%
+2024-08-17 17:31:06,601 - High network traffic detected: 3876.28 MB
+2024-08-17 17:31:06,601 - Health checks completed.
+2024-08-17 17:31:06,637 - High CPU usage detected: 92.9%
+2024-08-17 17:31:06,638 - High CPU usage detected: 93.1%
+2024-08-17 17:31:06,638 - High memory usage detected: 86.4%
+2024-08-17 17:31:06,638 - High network traffic detected: 3876.28 MB
+2024-08-17 17:31:06,638 - High memory usage detected: 86.4%
+2024-08-17 17:31:06,638 - Health checks completed.
+2024-08-17 17:31:06,639 - High network traffic detected: 3876.28 MB
+2024-08-17 17:31:06,639 - Health checks completed.
+2024-08-17 17:31:06,645 - Running system health checks...
+2024-08-17 17:31:06,648 - High CPU usage detected: 93.6%
+2024-08-17 17:31:06,648 - High memory usage detected: 86.5%
+2024-08-17 17:31:06,648 - High network traffic detected: 3876.29 MB
+2024-08-17 17:31:06,648 - Health checks completed.
+2024-08-17 17:31:06,666 - Running system health checks...
+2024-08-17 17:31:06,715 - Running system health checks...
+2024-08-17 17:31:06,719 - Running system health checks...
+2024-08-17 17:31:06,754 - Running system health checks...
+2024-08-17 17:31:06,764 - High CPU usage detected: 97.7%
+2024-08-17 17:31:06,764 - High memory usage detected: 87.1%
+2024-08-17 17:31:06,765 - High network traffic detected: 3876.29 MB
+2024-08-17 17:31:06,765 - Health checks completed.
+2024-08-17 17:31:06,791 - Running system health checks...
+2024-08-17 17:31:06,797 - High CPU usage detected: 98.2%
+2024-08-17 17:31:06,797 - High memory usage detected: 87.5%
+2024-08-17 17:31:06,797 - High network traffic detected: 3876.29 MB
+2024-08-17 17:31:06,797 - Health checks completed.
+2024-08-17 17:31:06,856 - High CPU usage detected: 98.7%
+2024-08-17 17:31:06,857 - High memory usage detected: 88.0%
+2024-08-17 17:31:06,857 - High network traffic detected: 3876.30 MB
+2024-08-17 17:31:06,857 - Health checks completed.
+2024-08-17 17:31:06,864 - Running system health checks...
+2024-08-17 17:31:06,883 - High CPU usage detected: 98.7%
+2024-08-17 17:31:06,884 - High memory usage detected: 88.1%
+2024-08-17 17:31:06,884 - High network traffic detected: 3876.30 MB
+2024-08-17 17:31:06,885 - Health checks completed.
+2024-08-17 17:31:06,884 - Running system health checks...
+2024-08-17 17:31:06,907 - High CPU usage detected: 98.7%
+2024-08-17 17:31:06,908 - High memory usage detected: 88.2%
+2024-08-17 17:31:06,908 - High network traffic detected: 3876.30 MB
+2024-08-17 17:31:06,909 - Health checks completed.
+2024-08-17 17:31:06,912 - High CPU usage detected: 98.7%
+2024-08-17 17:31:06,913 - High memory usage detected: 88.1%
+2024-08-17 17:31:06,913 - High network traffic detected: 3876.30 MB
+2024-08-17 17:31:06,913 - Health checks completed.
+2024-08-17 17:31:06,921 - High CPU usage detected: 98.7%
+2024-08-17 17:31:06,921 - High memory usage detected: 88.1%
+2024-08-17 17:31:06,922 - High network traffic detected: 3876.30 MB
+2024-08-17 17:31:06,922 - Health checks completed.
+2024-08-17 17:31:06,934 - Running system health checks...
+2024-08-17 17:31:06,934 - High CPU usage detected: 99.0%
+2024-08-17 17:31:06,935 - High memory usage detected: 88.1%
+2024-08-17 17:31:06,935 - High network traffic detected: 3876.30 MB
+2024-08-17 17:31:06,935 - Health checks completed.
+2024-08-17 17:31:06,939 - Running system health checks...
+2024-08-17 17:31:06,945 - High CPU usage detected: 99.2%
+2024-08-17 17:31:06,945 - High memory usage detected: 88.1%
+2024-08-17 17:31:06,946 - High network traffic detected: 3876.30 MB
+2024-08-17 17:31:06,946 - Health checks completed.
+2024-08-17 17:31:06,965 - High CPU usage detected: 99.2%
+2024-08-17 17:31:06,965 - High memory usage detected: 87.6%
+2024-08-17 17:31:06,966 - High network traffic detected: 3876.31 MB
+2024-08-17 17:31:06,966 - Health checks completed.
+2024-08-17 17:31:06,973 - High CPU usage detected: 99.2%
+2024-08-17 17:31:06,974 - High memory usage detected: 87.1%
+2024-08-17 17:31:06,975 - High network traffic detected: 3876.31 MB
+2024-08-17 17:31:06,975 - Health checks completed.
+2024-08-17 17:31:06,981 - High CPU usage detected: 99.5%
+2024-08-17 17:31:06,981 - High memory usage detected: 87.1%
+2024-08-17 17:31:06,981 - High network traffic detected: 3876.31 MB
+2024-08-17 17:31:06,982 - Health checks completed.
+2024-08-17 17:31:06,991 - High CPU usage detected: 99.5%
+2024-08-17 17:31:06,991 - High memory usage detected: 87.1%
+2024-08-17 17:31:06,991 - High network traffic detected: 3876.31 MB
+2024-08-17 17:31:06,991 - Health checks completed.
+2024-08-17 17:31:07,073 - Running system health checks...
+2024-08-17 17:31:07,095 - Running system health checks...
+2024-08-17 17:31:07,106 - Running system health checks...
+2024-08-17 17:31:07,107 - Running system health checks...
+2024-08-17 17:31:07,117 - Running system health checks...
+2024-08-17 17:31:07,121 - Running system health checks...
+2024-08-17 17:31:07,134 - High memory usage detected: 87.3%
+2024-08-17 17:31:07,134 - High memory usage detected: 87.3%
+2024-08-17 17:31:07,134 - High network traffic detected: 3876.32 MB
+2024-08-17 17:31:07,134 - Health checks completed.
+2024-08-17 17:31:07,134 - High network traffic detected: 3876.32 MB
+2024-08-17 17:31:07,134 - Health checks completed.
+2024-08-17 17:31:07,151 - High CPU usage detected: 99.0%
+2024-08-17 17:31:07,151 - High memory usage detected: 87.4%
+2024-08-17 17:31:07,151 - High network traffic detected: 3876.33 MB
+2024-08-17 17:31:07,151 - Health checks completed.
+2024-08-17 17:31:07,157 - High memory usage detected: 87.4%
+2024-08-17 17:31:07,157 - High network traffic detected: 3876.33 MB
+2024-08-17 17:31:07,157 - Health checks completed.
+2024-08-17 17:31:07,171 - High CPU usage detected: 99.0%
+2024-08-17 17:31:07,172 - High memory usage detected: 87.0%
+2024-08-17 17:31:07,172 - High network traffic detected: 3876.33 MB
+2024-08-17 17:31:07,172 - Health checks completed.
+2024-08-17 17:31:07,179 - High CPU usage detected: 98.7%
+2024-08-17 17:31:07,180 - High memory usage detected: 86.5%
+2024-08-17 17:31:07,180 - High CPU usage detected: 98.7%
+2024-08-17 17:31:07,180 - High network traffic detected: 3876.33 MB
+2024-08-17 17:31:07,180 - High memory usage detected: 86.5%
+2024-08-17 17:31:07,180 - Health checks completed.
+2024-08-17 17:31:07,181 - High network traffic detected: 3876.33 MB
+2024-08-17 17:31:07,181 - Health checks completed.
+2024-08-17 17:31:07,203 - High CPU usage detected: 98.7%
+2024-08-17 17:31:07,204 - High memory usage detected: 86.5%
+2024-08-17 17:31:07,204 - High network traffic detected: 3876.34 MB
+2024-08-17 17:31:07,204 - Health checks completed.
+2024-08-17 17:31:07,224 - Running system health checks...
+2024-08-17 17:31:07,236 - Running system health checks...
+2024-08-17 17:31:07,239 - High memory usage detected: 86.5%
+2024-08-17 17:31:07,240 - High network traffic detected: 3876.35 MB
+2024-08-17 17:31:07,240 - Health checks completed.
+2024-08-17 17:31:07,255 - High CPU usage detected: 98.4%
+2024-08-17 17:31:07,256 - High memory usage detected: 85.9%
+2024-08-17 17:31:07,256 - High network traffic detected: 3876.35 MB
+2024-08-17 17:31:07,256 - Health checks completed.
+2024-08-17 17:31:07,279 - High memory usage detected: 85.9%
+2024-08-17 17:31:07,280 - High network traffic detected: 3876.35 MB
+2024-08-17 17:31:07,280 - Health checks completed.
+2024-08-17 17:31:07,303 - High network traffic detected: 3876.36 MB
+2024-08-17 17:31:07,304 - Health checks completed.
+2024-08-17 17:31:07,323 - Running system health checks...
+2024-08-17 17:31:07,390 - Running system health checks...
+2024-08-17 17:31:07,411 - High memory usage detected: 85.7%
+2024-08-17 17:31:07,412 - High network traffic detected: 3876.37 MB
+2024-08-17 17:31:07,412 - Health checks completed.
+2024-08-17 17:31:07,420 - High memory usage detected: 85.8%
+2024-08-17 17:31:07,421 - High network traffic detected: 3876.37 MB
+2024-08-17 17:31:07,421 - Health checks completed.
+2024-08-17 17:31:07,445 - Running system health checks...
+2024-08-17 17:31:07,478 - High memory usage detected: 85.8%
+2024-08-17 17:31:07,479 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,479 - Health checks completed.
+2024-08-17 17:31:07,483 - High memory usage detected: 85.8%
+2024-08-17 17:31:07,483 - High memory usage detected: 85.8%
+2024-08-17 17:31:07,484 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,484 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,484 - Health checks completed.
+2024-08-17 17:31:07,484 - Health checks completed.
+2024-08-17 17:31:07,489 - High memory usage detected: 85.8%
+2024-08-17 17:31:07,489 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,489 - Health checks completed.
+2024-08-17 17:31:07,492 - High memory usage detected: 85.8%
+2024-08-17 17:31:07,492 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,492 - Health checks completed.
+2024-08-17 17:31:07,494 - High memory usage detected: 85.8%
+2024-08-17 17:31:07,494 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,495 - Health checks completed.
+2024-08-17 17:31:07,496 - High memory usage detected: 85.8%
+2024-08-17 17:31:07,497 - High memory usage detected: 85.8%
+2024-08-17 17:31:07,497 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,497 - Health checks completed.
+2024-08-17 17:31:07,497 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,498 - Health checks completed.
+2024-08-17 17:31:07,505 - High memory usage detected: 85.8%
+2024-08-17 17:31:07,505 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,506 - Health checks completed.
+2024-08-17 17:31:07,512 - High memory usage detected: 85.8%
+2024-08-17 17:31:07,512 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,512 - Health checks completed.
+2024-08-17 17:31:07,516 - High memory usage detected: 85.3%
+2024-08-17 17:31:07,516 - High memory usage detected: 85.3%
+2024-08-17 17:31:07,516 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,516 - High memory usage detected: 85.3%
+2024-08-17 17:31:07,516 - Health checks completed.
+2024-08-17 17:31:07,517 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,517 - Health checks completed.
+2024-08-17 17:31:07,517 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,517 - Health checks completed.
+2024-08-17 17:31:07,523 - High memory usage detected: 85.3%
+2024-08-17 17:31:07,524 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,524 - Health checks completed.
+2024-08-17 17:31:07,525 - High memory usage detected: 84.7%
+2024-08-17 17:31:07,525 - High memory usage detected: 84.4%
+2024-08-17 17:31:07,526 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,526 - Health checks completed.
+2024-08-17 17:31:07,526 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,526 - Health checks completed.
+2024-08-17 17:31:07,527 - High memory usage detected: 84.3%
+2024-08-17 17:31:07,528 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,528 - Health checks completed.
+2024-08-17 17:31:07,531 - High memory usage detected: 84.3%
+2024-08-17 17:31:07,531 - High memory usage detected: 84.3%
+2024-08-17 17:31:07,531 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,531 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,532 - Health checks completed.
+2024-08-17 17:31:07,532 - Health checks completed.
+2024-08-17 17:31:07,539 - High memory usage detected: 84.3%
+2024-08-17 17:31:07,539 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,539 - Health checks completed.
+2024-08-17 17:31:07,545 - High CPU usage detected: 96.3%
+2024-08-17 17:31:07,545 - High memory usage detected: 84.3%
+2024-08-17 17:31:07,546 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,546 - Health checks completed.
+2024-08-17 17:31:07,569 - High CPU usage detected: 96.3%
+2024-08-17 17:31:07,569 - High memory usage detected: 83.4%
+2024-08-17 17:31:07,570 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,570 - Health checks completed.
+2024-08-17 17:31:07,579 - High CPU usage detected: 96.3%
+2024-08-17 17:31:07,580 - High memory usage detected: 82.3%
+2024-08-17 17:31:07,580 - High network traffic detected: 3876.38 MB
+2024-08-17 17:31:07,580 - Health checks completed.
+2024-08-17 17:31:07,647 - High CPU usage detected: 96.3%
+2024-08-17 17:31:07,647 - High network traffic detected: 3876.39 MB
+2024-08-17 17:31:07,647 - Health checks completed.
+2024-08-17 17:31:07,667 - High CPU usage detected: 96.3%
+2024-08-17 17:31:07,668 - High network traffic detected: 3876.40 MB
+2024-08-17 17:31:07,668 - Health checks completed.
+2024-08-17 17:31:07,720 - High CPU usage detected: 96.3%
+2024-08-17 17:31:07,721 - High network traffic detected: 3876.43 MB
+2024-08-17 17:31:07,721 - Health checks completed.
+2024-08-17 17:31:07,721 - High CPU usage detected: 96.3%
+2024-08-17 17:31:07,722 - High network traffic detected: 3876.43 MB
+2024-08-17 17:31:07,722 - Health checks completed.
+2024-08-17 17:31:07,734 - Running system health checks...
+2024-08-17 17:31:07,750 - Running system health checks...
+2024-08-17 17:31:07,756 - High CPU usage detected: 96.3%
+2024-08-17 17:31:07,756 - High network traffic detected: 3876.47 MB
+2024-08-17 17:31:07,756 - Health checks completed.
+2024-08-17 17:31:07,792 - High CPU usage detected: 96.6%
+2024-08-17 17:31:07,793 - High network traffic detected: 3876.50 MB
+2024-08-17 17:31:07,793 - Health checks completed.
+2024-08-17 17:31:07,853 - High network traffic detected: 3876.57 MB
+2024-08-17 17:31:07,853 - Health checks completed.
+2024-08-17 17:31:07,865 - High CPU usage detected: 96.6%
+2024-08-17 17:31:07,865 - High network traffic detected: 3876.59 MB
+2024-08-17 17:31:07,865 - Health checks completed.
+2024-08-17 17:31:07,886 - High CPU usage detected: 96.6%
+2024-08-17 17:31:07,887 - High network traffic detected: 3876.61 MB
+2024-08-17 17:31:07,887 - Health checks completed.
+2024-08-17 17:31:07,940 - Running system health checks...
+2024-08-17 17:31:07,940 - High CPU usage detected: 96.6%
+2024-08-17 17:31:07,941 - High network traffic detected: 3876.63 MB
+2024-08-17 17:31:07,941 - Health checks completed.
+2024-08-17 17:31:07,948 - High CPU usage detected: 96.6%
+2024-08-17 17:31:07,949 - High network traffic detected: 3876.63 MB
+2024-08-17 17:31:07,949 - Health checks completed.
+2024-08-17 17:31:07,984 - High network traffic detected: 3876.63 MB
+2024-08-17 17:31:07,984 - Health checks completed.
+2024-08-17 17:31:07,987 - High network traffic detected: 3876.63 MB
+2024-08-17 17:31:07,988 - Health checks completed.
+2024-08-17 17:31:08,009 - Running system health checks...
+2024-08-17 17:31:08,040 - High memory usage detected: 80.1%
+2024-08-17 17:31:08,041 - High network traffic detected: 3876.64 MB
+2024-08-17 17:31:08,041 - Health checks completed.
+2024-08-17 17:31:08,067 - Running system health checks...
+2024-08-17 17:31:08,073 - Running system health checks...
+2024-08-17 17:31:08,074 - High CPU usage detected: 96.9%
+2024-08-17 17:31:08,075 - High memory usage detected: 80.3%
+2024-08-17 17:31:08,075 - High network traffic detected: 3876.64 MB
+2024-08-17 17:31:08,075 - Health checks completed.
+2024-08-17 17:31:08,095 - High CPU usage detected: 96.9%
+2024-08-17 17:31:08,096 - High network traffic detected: 3876.64 MB
+2024-08-17 17:31:08,096 - Health checks completed.
+2024-08-17 17:31:08,107 - High CPU usage detected: 96.9%
+2024-08-17 17:31:08,108 - High network traffic detected: 3876.64 MB
+2024-08-17 17:31:08,108 - Health checks completed.
+2024-08-17 17:31:08,117 - High CPU usage detected: 96.9%
+2024-08-17 17:31:08,118 - High network traffic detected: 3876.64 MB
+2024-08-17 17:31:08,118 - Health checks completed.
+2024-08-17 17:31:08,123 - High CPU usage detected: 97.1%
+2024-08-17 17:31:08,123 - High CPU usage detected: 97.1%
+2024-08-17 17:31:08,123 - High network traffic detected: 3876.64 MB
+2024-08-17 17:31:08,124 - Health checks completed.
+2024-08-17 17:31:08,124 - High network traffic detected: 3876.64 MB
+2024-08-17 17:31:08,124 - Health checks completed.
+2024-08-17 17:31:08,198 - Running system health checks...
+2024-08-17 17:31:08,225 - High CPU usage detected: 97.4%
+2024-08-17 17:31:08,225 - High memory usage detected: 80.3%
+2024-08-17 17:31:08,225 - High network traffic detected: 3876.64 MB
+2024-08-17 17:31:08,225 - Health checks completed.
+2024-08-17 17:31:08,237 - High CPU usage detected: 97.4%
+2024-08-17 17:31:08,237 - High memory usage detected: 80.4%
+2024-08-17 17:31:08,237 - High network traffic detected: 3876.64 MB
+2024-08-17 17:31:08,237 - Health checks completed.
+2024-08-17 17:31:08,264 - Running system health checks...
+2024-08-17 17:31:08,285 - Running system health checks...
+2024-08-17 17:31:08,297 - Running system health checks...
+2024-08-17 17:31:08,326 - High CPU usage detected: 98.2%
+2024-08-17 17:31:08,326 - High memory usage detected: 81.2%
+2024-08-17 17:31:08,327 - High network traffic detected: 3876.64 MB
+2024-08-17 17:31:08,327 - Health checks completed.
+2024-08-17 17:31:08,347 - Running system health checks...
+2024-08-17 17:31:08,351 - Running system health checks...
+2024-08-17 17:31:08,355 - Running system health checks...
+2024-08-17 17:31:08,392 - High CPU usage detected: 99.0%
+2024-08-17 17:31:08,392 - High memory usage detected: 81.9%
+2024-08-17 17:31:08,392 - Running system health checks...
+2024-08-17 17:31:08,393 - High network traffic detected: 3876.65 MB
+2024-08-17 17:31:08,393 - Health checks completed.
+2024-08-17 17:31:08,413 - Running system health checks...
+2024-08-17 17:31:08,417 - Running system health checks...
+2024-08-17 17:31:08,422 - Running system health checks...
+2024-08-17 17:31:08,428 - Running system health checks...
+2024-08-17 17:31:08,438 - Running system health checks...
+2024-08-17 17:31:08,447 - High CPU usage detected: 99.7%
+2024-08-17 17:31:08,447 - High memory usage detected: 82.2%
+2024-08-17 17:31:08,447 - High network traffic detected: 3876.66 MB
+2024-08-17 17:31:08,447 - Health checks completed.
+2024-08-17 17:31:08,460 - Running system health checks...
+2024-08-17 17:31:08,462 - Running system health checks...
+2024-08-17 17:31:08,482 - Running system health checks...
+2024-08-17 17:31:08,512 - Running system health checks...
+2024-08-17 17:31:08,514 - Running system health checks...
+2024-08-17 17:31:08,517 - Running system health checks...
+2024-08-17 17:31:08,519 - Running system health checks...
+2024-08-17 17:31:08,540 - Running system health checks...
+2024-08-17 17:31:08,581 - Running system health checks...
+2024-08-17 17:31:08,607 - Running system health checks...
+2024-08-17 17:31:08,607 - Running system health checks...
+2024-08-17 17:31:08,619 - Running system health checks...
+2024-08-17 17:31:08,627 - Running system health checks...
+2024-08-17 17:31:08,636 - Running system health checks...
+2024-08-17 17:31:08,637 - Running system health checks...
+2024-08-17 17:31:08,651 - Running system health checks...
+2024-08-17 17:31:08,684 - Running system health checks...
+2024-08-17 17:31:08,718 - Running system health checks...
+2024-08-17 17:31:08,709 - Running system health checks...
+2024-08-17 17:31:08,722 - Running system health checks...
+2024-08-17 17:31:08,726 - Running system health checks...
+2024-08-17 17:31:08,735 - High CPU usage detected: 100.0%
+2024-08-17 17:31:08,735 - High memory usage detected: 85.0%
+2024-08-17 17:31:08,736 - High network traffic detected: 3876.75 MB
+2024-08-17 17:31:08,736 - Health checks completed.
+2024-08-17 17:31:08,744 - Running system health checks...
+2024-08-17 17:31:08,750 - Running system health checks...
+2024-08-17 17:31:08,752 - High CPU usage detected: 100.0%
+2024-08-17 17:31:08,752 - High memory usage detected: 85.1%
+2024-08-17 17:31:08,753 - High network traffic detected: 3876.76 MB
+2024-08-17 17:31:08,753 - Health checks completed.
+2024-08-17 17:31:08,822 - Running system health checks...
+2024-08-17 17:31:08,859 - Running system health checks...
+2024-08-17 17:31:08,848 - Running system health checks...
+2024-08-17 17:31:08,889 - Running system health checks...
+2024-08-17 17:31:08,894 - Running system health checks...
+2024-08-17 17:31:08,917 - Running system health checks...
+2024-08-17 17:31:08,925 - Running system health checks...
+2024-08-17 17:31:08,941 - High CPU usage detected: 100.0%
+2024-08-17 17:31:08,941 - High memory usage detected: 86.0%
+2024-08-17 17:31:08,942 - High network traffic detected: 3876.94 MB
+2024-08-17 17:31:08,942 - Health checks completed.
+2024-08-17 17:31:08,952 - Running system health checks...
+2024-08-17 17:31:08,955 - Running system health checks...
+2024-08-17 17:31:08,978 - Running system health checks...
+2024-08-17 17:31:09,010 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,011 - High memory usage detected: 86.3%
+2024-08-17 17:31:09,011 - High network traffic detected: 3876.97 MB
+2024-08-17 17:31:09,011 - Health checks completed.
+2024-08-17 17:31:09,011 - Running system health checks...
+2024-08-17 17:31:09,059 - Running system health checks...
+2024-08-17 17:31:09,069 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,069 - High memory usage detected: 86.3%
+2024-08-17 17:31:09,070 - High network traffic detected: 3877.00 MB
+2024-08-17 17:31:09,070 - Health checks completed.
+2024-08-17 17:31:09,074 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,074 - High memory usage detected: 86.4%
+2024-08-17 17:31:09,075 - High network traffic detected: 3877.00 MB
+2024-08-17 17:31:09,075 - Health checks completed.
+2024-08-17 17:31:09,105 - Running system health checks...
+2024-08-17 17:31:09,164 - Running system health checks...
+2024-08-17 17:31:09,168 - Running system health checks...
+2024-08-17 17:31:09,170 - Running system health checks...
+2024-08-17 17:31:09,199 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,200 - High memory usage detected: 86.2%
+2024-08-17 17:31:09,200 - High network traffic detected: 3877.05 MB
+2024-08-17 17:31:09,200 - Health checks completed.
+2024-08-17 17:31:09,231 - Running system health checks...
+2024-08-17 17:31:09,265 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,265 - High memory usage detected: 86.0%
+2024-08-17 17:31:09,266 - High network traffic detected: 3877.07 MB
+2024-08-17 17:31:09,266 - Health checks completed.
+2024-08-17 17:31:09,286 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,287 - High memory usage detected: 86.0%
+2024-08-17 17:31:09,287 - High network traffic detected: 3877.07 MB
+2024-08-17 17:31:09,287 - Health checks completed.
+2024-08-17 17:31:09,298 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,309 - High memory usage detected: 86.0%
+2024-08-17 17:31:09,309 - High network traffic detected: 3877.08 MB
+2024-08-17 17:31:09,309 - Health checks completed.
+2024-08-17 17:31:09,334 - Running system health checks...
+2024-08-17 17:31:09,339 - Running system health checks...
+2024-08-17 17:31:09,349 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,401 - High memory usage detected: 86.7%
+2024-08-17 17:31:09,402 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,402 - Health checks completed.
+2024-08-17 17:31:09,415 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,357 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,361 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,415 - High memory usage detected: 86.4%
+2024-08-17 17:31:09,395 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,415 - High memory usage detected: 86.3%
+2024-08-17 17:31:09,415 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,415 - High memory usage detected: 86.3%
+2024-08-17 17:31:09,416 - High memory usage detected: 86.3%
+2024-08-17 17:31:09,416 - Health checks completed.
+2024-08-17 17:31:09,416 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,416 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,416 - Health checks completed.
+2024-08-17 17:31:09,416 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,416 - Health checks completed.
+2024-08-17 17:31:09,416 - Health checks completed.
+2024-08-17 17:31:09,421 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,421 - High memory usage detected: 86.3%
+2024-08-17 17:31:09,422 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,422 - Health checks completed.
+2024-08-17 17:31:09,424 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,424 - High memory usage detected: 86.3%
+2024-08-17 17:31:09,425 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,425 - Health checks completed.
+2024-08-17 17:31:09,429 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,429 - High memory usage detected: 86.3%
+2024-08-17 17:31:09,429 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,430 - Health checks completed.
+2024-08-17 17:31:09,439 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,440 - High memory usage detected: 86.3%
+2024-08-17 17:31:09,440 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,440 - Health checks completed.
+2024-08-17 17:31:09,462 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,463 - High memory usage detected: 85.5%
+2024-08-17 17:31:09,464 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,464 - Health checks completed.
+2024-08-17 17:31:09,464 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,464 - High memory usage detected: 85.5%
+2024-08-17 17:31:09,464 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,465 - Health checks completed.
+2024-08-17 17:31:09,489 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,490 - High memory usage detected: 85.6%
+2024-08-17 17:31:09,490 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,490 - Health checks completed.
+2024-08-17 17:31:09,513 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,513 - High memory usage detected: 85.4%
+2024-08-17 17:31:09,514 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,514 - Health checks completed.
+2024-08-17 17:31:09,515 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,516 - High memory usage detected: 85.4%
+2024-08-17 17:31:09,516 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,517 - Health checks completed.
+2024-08-17 17:31:09,519 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,519 - High memory usage detected: 85.4%
+2024-08-17 17:31:09,520 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,520 - Health checks completed.
+2024-08-17 17:31:09,522 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,523 - High memory usage detected: 85.0%
+2024-08-17 17:31:09,524 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,524 - Health checks completed.
+2024-08-17 17:31:09,541 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,541 - High memory usage detected: 84.6%
+2024-08-17 17:31:09,541 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,542 - Health checks completed.
+2024-08-17 17:31:09,583 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,583 - High memory usage detected: 84.1%
+2024-08-17 17:31:09,584 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,584 - Health checks completed.
+2024-08-17 17:31:09,608 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,608 - High memory usage detected: 84.3%
+2024-08-17 17:31:09,609 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,609 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,609 - Health checks completed.
+2024-08-17 17:31:09,609 - High memory usage detected: 84.3%
+2024-08-17 17:31:09,609 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,609 - Health checks completed.
+2024-08-17 17:31:09,629 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,629 - High memory usage detected: 84.3%
+2024-08-17 17:31:09,629 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,630 - Health checks completed.
+2024-08-17 17:31:09,637 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,637 - High memory usage detected: 84.3%
+2024-08-17 17:31:09,637 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,637 - Health checks completed.
+2024-08-17 17:31:09,639 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,640 - High memory usage detected: 83.7%
+2024-08-17 17:31:09,640 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,640 - Health checks completed.
+2024-08-17 17:31:09,642 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,642 - High memory usage detected: 83.7%
+2024-08-17 17:31:09,643 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,643 - Health checks completed.
+2024-08-17 17:31:09,650 - Running system health checks...
+2024-08-17 17:31:09,653 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,653 - High memory usage detected: 83.7%
+2024-08-17 17:31:09,654 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,654 - Health checks completed.
+2024-08-17 17:31:09,685 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,685 - High memory usage detected: 83.3%
+2024-08-17 17:31:09,685 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,685 - Health checks completed.
+2024-08-17 17:31:09,708 - Running system health checks...
+2024-08-17 17:31:09,719 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,719 - High memory usage detected: 83.2%
+2024-08-17 17:31:09,720 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,720 - Health checks completed.
+2024-08-17 17:31:09,724 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,724 - High memory usage detected: 83.2%
+2024-08-17 17:31:09,724 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,724 - Health checks completed.
+2024-08-17 17:31:09,728 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,728 - High memory usage detected: 83.3%
+2024-08-17 17:31:09,729 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,729 - Health checks completed.
+2024-08-17 17:31:09,735 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,735 - High memory usage detected: 83.3%
+2024-08-17 17:31:09,736 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,736 - Health checks completed.
+2024-08-17 17:31:09,745 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,746 - High memory usage detected: 83.5%
+2024-08-17 17:31:09,746 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,746 - Health checks completed.
+2024-08-17 17:31:09,752 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,752 - High memory usage detected: 83.4%
+2024-08-17 17:31:09,752 - High network traffic detected: 3877.09 MB
+2024-08-17 17:31:09,752 - Health checks completed.
+2024-08-17 17:31:09,768 - Running system health checks...
+2024-08-17 17:31:09,803 - Running system health checks...
+2024-08-17 17:31:09,823 - Running system health checks...
+2024-08-17 17:31:09,823 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,824 - High memory usage detected: 82.8%
+2024-08-17 17:31:09,824 - High network traffic detected: 3877.10 MB
+2024-08-17 17:31:09,825 - Health checks completed.
+2024-08-17 17:31:09,856 - Running system health checks...
+2024-08-17 17:31:09,860 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,861 - High memory usage detected: 83.6%
+2024-08-17 17:31:09,861 - High network traffic detected: 3877.10 MB
+2024-08-17 17:31:09,861 - Health checks completed.
+2024-08-17 17:31:09,870 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,871 - High memory usage detected: 83.2%
+2024-08-17 17:31:09,871 - High network traffic detected: 3877.10 MB
+2024-08-17 17:31:09,872 - Health checks completed.
+2024-08-17 17:31:09,879 - Running system health checks...
+2024-08-17 17:31:09,886 - Running system health checks...
+2024-08-17 17:31:09,890 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,891 - High memory usage detected: 83.5%
+2024-08-17 17:31:09,891 - High network traffic detected: 3877.10 MB
+2024-08-17 17:31:09,891 - Health checks completed.
+2024-08-17 17:31:09,895 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,896 - High memory usage detected: 83.6%
+2024-08-17 17:31:09,896 - High network traffic detected: 3877.10 MB
+2024-08-17 17:31:09,896 - Health checks completed.
+2024-08-17 17:31:09,918 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,919 - High memory usage detected: 83.2%
+2024-08-17 17:31:09,919 - High network traffic detected: 3877.10 MB
+2024-08-17 17:31:09,919 - Health checks completed.
+2024-08-17 17:31:09,927 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,927 - High memory usage detected: 83.3%
+2024-08-17 17:31:09,927 - High network traffic detected: 3877.10 MB
+2024-08-17 17:31:09,927 - Health checks completed.
+2024-08-17 17:31:09,942 - Running system health checks...
+2024-08-17 17:31:09,952 - Running system health checks...
+2024-08-17 17:31:09,953 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,954 - High memory usage detected: 83.7%
+2024-08-17 17:31:09,954 - High network traffic detected: 3877.11 MB
+2024-08-17 17:31:09,954 - Health checks completed.
+2024-08-17 17:31:09,963 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,964 - High memory usage detected: 83.2%
+2024-08-17 17:31:09,964 - High network traffic detected: 3877.11 MB
+2024-08-17 17:31:09,964 - Health checks completed.
+2024-08-17 17:31:09,977 - Running system health checks...
+2024-08-17 17:31:09,980 - High CPU usage detected: 100.0%
+2024-08-17 17:31:09,980 - High memory usage detected: 83.3%
+2024-08-17 17:31:09,980 - High network traffic detected: 3877.11 MB
+2024-08-17 17:31:09,980 - Health checks completed.
+2024-08-17 17:31:10,013 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,013 - High memory usage detected: 83.7%
+2024-08-17 17:31:10,013 - High network traffic detected: 3877.11 MB
+2024-08-17 17:31:10,013 - Health checks completed.
+2024-08-17 17:31:10,031 - Running system health checks...
+2024-08-17 17:31:10,061 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,061 - High memory usage detected: 83.5%
+2024-08-17 17:31:10,061 - High network traffic detected: 3877.11 MB
+2024-08-17 17:31:10,061 - Health checks completed.
+2024-08-17 17:31:10,091 - Running system health checks...
+2024-08-17 17:31:10,107 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,108 - High memory usage detected: 83.8%
+2024-08-17 17:31:10,110 - High network traffic detected: 3877.11 MB
+2024-08-17 17:31:10,111 - Health checks completed.
+2024-08-17 17:31:10,117 - Running system health checks...
+2024-08-17 17:31:10,131 - Running system health checks...
+2024-08-17 17:31:10,145 - Running system health checks...
+2024-08-17 17:31:10,165 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,165 - High memory usage detected: 83.9%
+2024-08-17 17:31:10,165 - High network traffic detected: 3877.11 MB
+2024-08-17 17:31:10,165 - Health checks completed.
+2024-08-17 17:31:10,173 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,173 - High memory usage detected: 84.0%
+2024-08-17 17:31:10,173 - High network traffic detected: 3877.11 MB
+2024-08-17 17:31:10,173 - Health checks completed.
+2024-08-17 17:31:10,195 - Running system health checks...
+2024-08-17 17:31:10,209 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,210 - High memory usage detected: 83.8%
+2024-08-17 17:31:10,210 - High network traffic detected: 3877.11 MB
+2024-08-17 17:31:10,210 - Health checks completed.
+2024-08-17 17:31:10,226 - Running system health checks...
+2024-08-17 17:31:10,231 - Running system health checks...
+2024-08-17 17:31:10,236 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,236 - High memory usage detected: 83.9%
+2024-08-17 17:31:10,236 - High network traffic detected: 3877.11 MB
+2024-08-17 17:31:10,236 - Health checks completed.
+2024-08-17 17:31:10,250 - Running system health checks...
+2024-08-17 17:31:10,260 - Running system health checks...
+2024-08-17 17:31:10,311 - Running system health checks...
+2024-08-17 17:31:10,317 - Running system health checks...
+2024-08-17 17:31:10,322 - Running system health checks...
+2024-08-17 17:31:10,329 - Running system health checks...
+2024-08-17 17:31:10,340 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,344 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,344 - High memory usage detected: 84.8%
+2024-08-17 17:31:10,344 - High memory usage detected: 84.8%
+2024-08-17 17:31:10,344 - High network traffic detected: 3877.11 MB
+2024-08-17 17:31:10,345 - Health checks completed.
+2024-08-17 17:31:10,345 - High network traffic detected: 3877.11 MB
+2024-08-17 17:31:10,345 - Health checks completed.
+2024-08-17 17:31:10,361 - Running system health checks...
+2024-08-17 17:31:10,363 - Running system health checks...
+2024-08-17 17:31:10,386 - Running system health checks...
+2024-08-17 17:31:10,400 - Running system health checks...
+2024-08-17 17:31:10,409 - Running system health checks...
+2024-08-17 17:31:10,411 - Running system health checks...
+2024-08-17 17:31:10,414 - Running system health checks...
+2024-08-17 17:31:10,419 - Running system health checks...
+2024-08-17 17:31:10,420 - Running system health checks...
+2024-08-17 17:31:10,462 - Running system health checks...
+2024-08-17 17:31:10,478 - Running system health checks...
+2024-08-17 17:31:10,482 - Running system health checks...
+2024-08-17 17:31:10,483 - Running system health checks...
+2024-08-17 17:31:10,488 - Running system health checks...
+2024-08-17 17:31:10,492 - Running system health checks...
+2024-08-17 17:31:10,492 - Running system health checks...
+2024-08-17 17:31:10,493 - Running system health checks...
+2024-08-17 17:31:10,510 - Running system health checks...
+2024-08-17 17:31:10,512 - Running system health checks...
+2024-08-17 17:31:10,522 - Running system health checks...
+2024-08-17 17:31:10,525 - Running system health checks...
+2024-08-17 17:31:10,541 - Running system health checks...
+2024-08-17 17:31:10,549 - Running system health checks...
+2024-08-17 17:31:10,550 - Running system health checks...
+2024-08-17 17:31:10,634 - Running system health checks...
+2024-08-17 17:31:10,649 - Running system health checks...
+2024-08-17 17:31:10,652 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,657 - High memory usage detected: 86.9%
+2024-08-17 17:31:10,658 - High network traffic detected: 3877.12 MB
+2024-08-17 17:31:10,658 - Health checks completed.
+2024-08-17 17:31:10,674 - Running system health checks...
+2024-08-17 17:31:10,709 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,709 - High memory usage detected: 87.7%
+2024-08-17 17:31:10,709 - High network traffic detected: 3877.12 MB
+2024-08-17 17:31:10,710 - Health checks completed.
+2024-08-17 17:31:10,719 - Running system health checks...
+2024-08-17 17:31:10,730 - Running system health checks...
+2024-08-17 17:31:10,755 - Running system health checks...
+2024-08-17 17:31:10,770 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,770 - High memory usage detected: 88.5%
+2024-08-17 17:31:10,771 - High network traffic detected: 3877.12 MB
+2024-08-17 17:31:10,771 - Health checks completed.
+2024-08-17 17:31:10,804 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,805 - High memory usage detected: 88.9%
+2024-08-17 17:31:10,805 - High network traffic detected: 3877.12 MB
+2024-08-17 17:31:10,805 - Health checks completed.
+2024-08-17 17:31:10,823 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,824 - High memory usage detected: 89.0%
+2024-08-17 17:31:10,824 - High network traffic detected: 3877.12 MB
+2024-08-17 17:31:10,824 - Health checks completed.
+2024-08-17 17:31:10,857 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,857 - High memory usage detected: 88.8%
+2024-08-17 17:31:10,857 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:10,858 - Health checks completed.
+2024-08-17 17:31:10,863 - Running system health checks...
+2024-08-17 17:31:10,881 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,886 - High memory usage detected: 89.0%
+2024-08-17 17:31:10,887 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,888 - High memory usage detected: 89.1%
+2024-08-17 17:31:10,888 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:10,888 - Health checks completed.
+2024-08-17 17:31:10,943 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,944 - High memory usage detected: 89.6%
+2024-08-17 17:31:10,944 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:10,944 - Health checks completed.
+2024-08-17 17:31:10,953 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,953 - High memory usage detected: 89.7%
+2024-08-17 17:31:10,954 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:10,954 - Health checks completed.
+2024-08-17 17:31:10,979 - High CPU usage detected: 100.0%
+2024-08-17 17:31:10,979 - High memory usage detected: 89.8%
+2024-08-17 17:31:10,979 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:10,979 - Health checks completed.
+2024-08-17 17:31:11,001 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,001 - Health checks completed.
+2024-08-17 17:31:10,885 - Running system health checks...
+2024-08-17 17:31:11,018 - Running system health checks...
+2024-08-17 17:31:11,032 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,033 - High memory usage detected: 89.8%
+2024-08-17 17:31:11,033 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,033 - Health checks completed.
+2024-08-17 17:31:11,065 - Running system health checks...
+2024-08-17 17:31:11,072 - Running system health checks...
+2024-08-17 17:31:11,092 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,093 - High memory usage detected: 90.3%
+2024-08-17 17:31:11,093 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,093 - Health checks completed.
+2024-08-17 17:31:11,119 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,119 - High memory usage detected: 90.4%
+2024-08-17 17:31:11,119 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,119 - Health checks completed.
+2024-08-17 17:31:11,133 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,133 - High memory usage detected: 90.5%
+2024-08-17 17:31:11,133 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,134 - Health checks completed.
+2024-08-17 17:31:11,146 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,147 - High memory usage detected: 90.0%
+2024-08-17 17:31:11,147 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,147 - Health checks completed.
+2024-08-17 17:31:11,196 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,310 - High memory usage detected: 91.0%
+2024-08-17 17:31:11,310 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,311 - Health checks completed.
+2024-08-17 17:31:11,317 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,317 - High memory usage detected: 91.1%
+2024-08-17 17:31:11,318 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,318 - Health checks completed.
+2024-08-17 17:31:11,318 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,319 - High memory usage detected: 91.1%
+2024-08-17 17:31:11,319 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,319 - Health checks completed.
+2024-08-17 17:31:11,322 - Running system health checks...
+2024-08-17 17:31:11,323 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,323 - High memory usage detected: 91.2%
+2024-08-17 17:31:11,324 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,324 - Health checks completed.
+2024-08-17 17:31:11,327 - Running system health checks...
+2024-08-17 17:31:11,203 - Running system health checks...
+2024-08-17 17:31:11,228 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,232 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,252 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,328 - High memory usage detected: 91.2%
+2024-08-17 17:31:11,328 - High memory usage detected: 91.2%
+2024-08-17 17:31:11,328 - High memory usage detected: 91.2%
+2024-08-17 17:31:11,328 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,328 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,328 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,328 - Health checks completed.
+2024-08-17 17:31:11,328 - Health checks completed.
+2024-08-17 17:31:11,328 - Health checks completed.
+2024-08-17 17:31:11,337 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,338 - High memory usage detected: 91.2%
+2024-08-17 17:31:11,338 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,338 - Health checks completed.
+2024-08-17 17:31:11,351 - Running system health checks...
+2024-08-17 17:31:11,353 - Running system health checks...
+2024-08-17 17:31:11,362 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,362 - High memory usage detected: 91.2%
+2024-08-17 17:31:11,363 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,363 - Health checks completed.
+2024-08-17 17:31:11,364 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,364 - High memory usage detected: 91.2%
+2024-08-17 17:31:11,365 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,365 - Health checks completed.
+2024-08-17 17:31:11,370 - Running system health checks...
+2024-08-17 17:31:11,253 - Running system health checks...
+2024-08-17 17:31:11,262 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,274 - Running system health checks...
+2024-08-17 17:31:11,387 - High memory usage detected: 90.8%
+2024-08-17 17:31:11,387 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,387 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,387 - Health checks completed.
+2024-08-17 17:31:11,388 - High memory usage detected: 90.8%
+2024-08-17 17:31:11,388 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,388 - Health checks completed.
+2024-08-17 17:31:11,391 - Running system health checks...
+2024-08-17 17:31:11,402 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,402 - High memory usage detected: 90.2%
+2024-08-17 17:31:11,402 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,403 - Health checks completed.
+2024-08-17 17:31:11,411 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,411 - High memory usage detected: 90.2%
+2024-08-17 17:31:11,411 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,412 - Health checks completed.
+2024-08-17 17:31:11,412 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,413 - High memory usage detected: 90.2%
+2024-08-17 17:31:11,413 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,413 - Health checks completed.
+2024-08-17 17:31:11,416 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,417 - High memory usage detected: 90.2%
+2024-08-17 17:31:11,417 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,417 - Health checks completed.
+2024-08-17 17:31:11,421 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,421 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,421 - High memory usage detected: 90.2%
+2024-08-17 17:31:11,421 - High memory usage detected: 90.2%
+2024-08-17 17:31:11,421 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,421 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,422 - Health checks completed.
+2024-08-17 17:31:11,422 - Health checks completed.
+2024-08-17 17:31:11,434 - Running system health checks...
+2024-08-17 17:31:11,452 - Running system health checks...
+2024-08-17 17:31:11,452 - Running system health checks...
+2024-08-17 17:31:11,463 - Running system health checks...
+2024-08-17 17:31:11,463 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,467 - Running system health checks...
+2024-08-17 17:31:11,571 - High memory usage detected: 88.8%
+2024-08-17 17:31:11,571 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,470 - Running system health checks...
+2024-08-17 17:31:11,581 - Running system health checks...
+2024-08-17 17:31:11,479 - Running system health checks...
+2024-08-17 17:31:11,479 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,619 - High memory usage detected: 88.9%
+2024-08-17 17:31:11,619 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,619 - Health checks completed.
+2024-08-17 17:31:11,484 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,485 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,625 - High memory usage detected: 88.9%
+2024-08-17 17:31:11,625 - High memory usage detected: 88.9%
+2024-08-17 17:31:11,625 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,625 - Health checks completed.
+2024-08-17 17:31:11,625 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,626 - Health checks completed.
+2024-08-17 17:31:11,489 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,493 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,494 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,629 - High memory usage detected: 88.9%
+2024-08-17 17:31:11,629 - High memory usage detected: 88.9%
+2024-08-17 17:31:11,629 - High memory usage detected: 88.9%
+2024-08-17 17:31:11,629 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,629 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,629 - Health checks completed.
+2024-08-17 17:31:11,629 - Health checks completed.
+2024-08-17 17:31:11,629 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,630 - Health checks completed.
+2024-08-17 17:31:11,636 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,636 - High memory usage detected: 88.9%
+2024-08-17 17:31:11,637 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,637 - Health checks completed.
+2024-08-17 17:31:11,494 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,639 - High memory usage detected: 88.9%
+2024-08-17 17:31:11,640 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,640 - Health checks completed.
+2024-08-17 17:31:11,497 - Running system health checks...
+2024-08-17 17:31:11,503 - Running system health checks...
+2024-08-17 17:31:11,512 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,645 - High memory usage detected: 88.9%
+2024-08-17 17:31:11,646 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,646 - Health checks completed.
+2024-08-17 17:31:11,656 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,656 - High memory usage detected: 88.9%
+2024-08-17 17:31:11,657 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,657 - Health checks completed.
+2024-08-17 17:31:11,667 - Running system health checks...
+2024-08-17 17:31:11,515 - Running system health checks...
+2024-08-17 17:31:11,518 - Running system health checks...
+2024-08-17 17:31:11,525 - Running system health checks...
+2024-08-17 17:31:11,527 - Running system health checks...
+2024-08-17 17:31:11,530 - Running system health checks...
+2024-08-17 17:31:11,530 - Running system health checks...
+2024-08-17 17:31:11,533 - Running system health checks...
+2024-08-17 17:31:11,538 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,540 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,541 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,543 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,669 - High memory usage detected: 88.9%
+2024-08-17 17:31:11,669 - High memory usage detected: 88.9%
+2024-08-17 17:31:11,669 - High memory usage detected: 88.9%
+2024-08-17 17:31:11,669 - High memory usage detected: 88.9%
+2024-08-17 17:31:11,669 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,669 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,669 - Health checks completed.
+2024-08-17 17:31:11,669 - Health checks completed.
+2024-08-17 17:31:11,669 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,669 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,669 - Health checks completed.
+2024-08-17 17:31:11,669 - Health checks completed.
+2024-08-17 17:31:11,544 - Running system health checks...
+2024-08-17 17:31:11,547 - Running system health checks...
+2024-08-17 17:31:11,549 - Running system health checks...
+2024-08-17 17:31:11,554 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,554 - Running system health checks...
+2024-08-17 17:31:11,673 - High memory usage detected: 88.9%
+2024-08-17 17:31:11,673 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,674 - Health checks completed.
+2024-08-17 17:31:11,676 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,676 - High memory usage detected: 88.9%
+2024-08-17 17:31:11,554 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,555 - Running system health checks...
+2024-08-17 17:31:11,677 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,677 - High memory usage detected: 88.9%
+2024-08-17 17:31:11,677 - Health checks completed.
+2024-08-17 17:31:11,677 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,677 - Health checks completed.
+2024-08-17 17:31:11,561 - Running system health checks...
+2024-08-17 17:31:11,567 - Running system health checks...
+2024-08-17 17:31:11,576 - Running system health checks...
+2024-08-17 17:31:11,685 - Running system health checks...
+2024-08-17 17:31:11,693 - Running system health checks...
+2024-08-17 17:31:11,578 - Health checks completed.
+2024-08-17 17:31:11,604 - Running system health checks...
+2024-08-17 17:31:11,613 - Running system health checks...
+2024-08-17 17:31:11,618 - Running system health checks...
+2024-08-17 17:31:11,718 - Running system health checks...
+2024-08-17 17:31:11,720 - Running system health checks...
+2024-08-17 17:31:11,721 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,721 - High memory usage detected: 88.4%
+2024-08-17 17:31:11,722 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,722 - Health checks completed.
+2024-08-17 17:31:11,732 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,732 - High memory usage detected: 87.7%
+2024-08-17 17:31:11,733 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,733 - Health checks completed.
+2024-08-17 17:31:11,751 - Running system health checks...
+2024-08-17 17:31:11,757 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,757 - High memory usage detected: 86.8%
+2024-08-17 17:31:11,757 - High network traffic detected: 3877.13 MB
+2024-08-17 17:31:11,758 - Health checks completed.
+2024-08-17 17:31:11,759 - Running system health checks...
+2024-08-17 17:31:11,779 - Running system health checks...
+2024-08-17 17:31:11,810 - Running system health checks...
+2024-08-17 17:31:11,825 - Running system health checks...
+2024-08-17 17:31:11,783 - Running system health checks...
+2024-08-17 17:31:11,790 - Running system health checks...
+2024-08-17 17:31:11,843 - Running system health checks...
+2024-08-17 17:31:11,865 - High CPU usage detected: 100.0%
+2024-08-17 17:31:11,865 - High memory usage detected: 85.9%
+2024-08-17 17:31:11,865 - High network traffic detected: 3877.14 MB
+2024-08-17 17:31:11,866 - Health checks completed.
+2024-08-17 17:31:11,898 - Running system health checks...
+2024-08-17 17:31:11,917 - Running system health checks...
+2024-08-17 17:31:12,003 - High CPU usage detected: 100.0%
+2024-08-17 17:31:12,003 - High memory usage detected: 85.8%
+2024-08-17 17:31:12,004 - High network traffic detected: 3877.14 MB
+2024-08-17 17:31:12,004 - Health checks completed.
+2024-08-17 17:31:12,012 - Running system health checks...
+2024-08-17 17:31:12,019 - High CPU usage detected: 100.0%
+2024-08-17 17:31:12,019 - High memory usage detected: 85.4%
+2024-08-17 17:31:12,020 - High network traffic detected: 3877.14 MB
+2024-08-17 17:31:12,020 - Health checks completed.
+2024-08-17 17:31:12,067 - High CPU usage detected: 99.7%
+2024-08-17 17:31:12,067 - High memory usage detected: 86.2%
+2024-08-17 17:31:12,068 - High network traffic detected: 3877.14 MB
+2024-08-17 17:31:12,068 - Health checks completed.
+2024-08-17 17:31:12,074 - High CPU usage detected: 99.7%
+2024-08-17 17:31:12,075 - High memory usage detected: 86.3%
+2024-08-17 17:31:12,075 - High network traffic detected: 3877.14 MB
+2024-08-17 17:31:12,081 - Health checks completed.
+2024-08-17 17:31:12,016 - Running system health checks...
+2024-08-17 17:31:12,169 - Running system health checks...
+2024-08-17 17:31:12,216 - Running system health checks...
+2024-08-17 17:31:12,230 - Running system health checks...
+2024-08-17 17:31:12,269 - Running system health checks...
+2024-08-17 17:31:12,294 - Running system health checks...
+2024-08-17 17:31:12,297 - Running system health checks...
+2024-08-17 17:31:12,312 - Running system health checks...
+2024-08-17 17:31:12,322 - Running system health checks...
+2024-08-17 17:31:12,324 - High CPU usage detected: 99.7%
+2024-08-17 17:31:12,325 - High memory usage detected: 88.8%
+2024-08-17 17:31:12,325 - High network traffic detected: 3877.15 MB
+2024-08-17 17:31:12,325 - Health checks completed.
+2024-08-17 17:31:12,329 - High CPU usage detected: 99.7%
+2024-08-17 17:31:12,331 - High memory usage detected: 89.1%
+2024-08-17 17:31:12,332 - High network traffic detected: 3877.15 MB
+2024-08-17 17:31:12,332 - Health checks completed.
+2024-08-17 17:31:12,347 - High CPU usage detected: 99.7%
+2024-08-17 17:31:12,348 - High memory usage detected: 89.2%
+2024-08-17 17:31:12,348 - High network traffic detected: 3877.15 MB
+2024-08-17 17:31:12,348 - Health checks completed.
+2024-08-17 17:31:12,353 - High CPU usage detected: 99.7%
+2024-08-17 17:31:12,353 - High memory usage detected: 89.2%
+2024-08-17 17:31:12,353 - High network traffic detected: 3877.15 MB
+2024-08-17 17:31:12,354 - Health checks completed.
+2024-08-17 17:31:12,361 - High CPU usage detected: 99.7%
+2024-08-17 17:31:12,361 - High memory usage detected: 89.3%
+2024-08-17 17:31:12,362 - High network traffic detected: 3877.15 MB
+2024-08-17 17:31:12,362 - Health checks completed.
+2024-08-17 17:31:12,366 - Running system health checks...
+2024-08-17 17:31:12,367 - Running system health checks...
+2024-08-17 17:31:12,372 - High CPU usage detected: 99.7%
+2024-08-17 17:31:12,373 - High memory usage detected: 89.3%
+2024-08-17 17:31:12,373 - High network traffic detected: 3877.15 MB
+2024-08-17 17:31:12,373 - Health checks completed.
+2024-08-17 17:31:12,388 - High CPU usage detected: 99.7%
+2024-08-17 17:31:12,388 - High CPU usage detected: 99.7%
+2024-08-17 17:31:12,388 - High memory usage detected: 87.5%
+2024-08-17 17:31:12,388 - High memory usage detected: 87.5%
+2024-08-17 17:31:12,389 - High network traffic detected: 3877.15 MB
+2024-08-17 17:31:12,389 - High network traffic detected: 3877.15 MB
+2024-08-17 17:31:12,389 - Health checks completed.
+2024-08-17 17:31:12,389 - Health checks completed.
+2024-08-17 17:31:12,405 - High CPU usage detected: 99.7%
+2024-08-17 17:31:12,405 - High memory usage detected: 87.6%
+2024-08-17 17:31:12,406 - High network traffic detected: 3877.15 MB
+2024-08-17 17:31:12,407 - Health checks completed.
+2024-08-17 17:31:12,411 - Running system health checks...
+2024-08-17 17:31:12,426 - Running system health checks...
+2024-08-17 17:31:12,436 - High CPU usage detected: 99.7%
+2024-08-17 17:31:12,436 - High memory usage detected: 87.8%
+2024-08-17 17:31:12,436 - High network traffic detected: 3877.15 MB
+2024-08-17 17:31:12,437 - Health checks completed.
+2024-08-17 17:31:12,444 - Running system health checks...
+2024-08-17 17:31:12,448 - Running system health checks...
+2024-08-17 17:31:12,451 - Running system health checks...
+2024-08-17 17:31:12,453 - High CPU usage detected: 99.7%
+2024-08-17 17:31:12,453 - High memory usage detected: 87.2%
+2024-08-17 17:31:12,453 - High network traffic detected: 3877.15 MB
+2024-08-17 17:31:12,453 - Health checks completed.
+2024-08-17 17:31:12,455 - Running system health checks...
+2024-08-17 17:31:12,456 - Running system health checks...
+2024-08-17 17:31:12,475 - Running system health checks...
+2024-08-17 17:31:12,479 - Running system health checks...
+2024-08-17 17:31:12,480 - Running system health checks...
+2024-08-17 17:31:12,485 - Running system health checks...
+2024-08-17 17:31:12,496 - Running system health checks...
+2024-08-17 17:31:12,508 - Running system health checks...
+2024-08-17 17:31:12,523 - Running system health checks...
+2024-08-17 17:31:12,547 - Running system health checks...
+2024-08-17 17:31:12,564 - Running system health checks...
+2024-08-17 17:31:12,572 - High CPU usage detected: 99.5%
+2024-08-17 17:31:12,573 - High CPU usage detected: 99.5%
+2024-08-17 17:31:12,577 - High memory usage detected: 87.6%
+2024-08-17 17:31:12,577 - High memory usage detected: 87.6%
+2024-08-17 17:31:12,578 - High network traffic detected: 3877.15 MB
+2024-08-17 17:31:12,578 - High network traffic detected: 3877.15 MB
+2024-08-17 17:31:12,578 - Health checks completed.
+2024-08-17 17:31:12,578 - Health checks completed.
+2024-08-17 17:31:12,574 - High CPU usage detected: 99.5%
+2024-08-17 17:31:12,581 - High memory usage detected: 87.7%
+2024-08-17 17:31:12,581 - High network traffic detected: 3877.15 MB
+2024-08-17 17:31:12,581 - Health checks completed.
+2024-08-17 17:31:12,606 - High CPU usage detected: 99.5%
+2024-08-17 17:31:12,606 - High memory usage detected: 87.7%
+2024-08-17 17:31:12,607 - High network traffic detected: 3877.16 MB
+2024-08-17 17:31:12,607 - Health checks completed.
+2024-08-17 17:31:12,622 - High CPU usage detected: 99.5%
+2024-08-17 17:31:12,622 - High memory usage detected: 87.8%
+2024-08-17 17:31:12,623 - High network traffic detected: 3877.16 MB
+2024-08-17 17:31:12,623 - Health checks completed.
+2024-08-17 17:31:12,626 - High CPU usage detected: 99.5%
+2024-08-17 17:31:12,626 - High memory usage detected: 87.8%
+2024-08-17 17:31:12,626 - High network traffic detected: 3877.16 MB
+2024-08-17 17:31:12,627 - Health checks completed.
+2024-08-17 17:31:12,645 - Running system health checks...
+2024-08-17 17:31:12,646 - High CPU usage detected: 99.5%
+2024-08-17 17:31:12,646 - High CPU usage detected: 99.5%
+2024-08-17 17:31:12,646 - High memory usage detected: 87.9%
+2024-08-17 17:31:12,647 - High network traffic detected: 3877.16 MB
+2024-08-17 17:31:12,647 - High memory usage detected: 87.9%
+2024-08-17 17:31:12,647 - Health checks completed.
+2024-08-17 17:31:12,647 - High network traffic detected: 3877.16 MB
+2024-08-17 17:31:12,647 - Health checks completed.
+2024-08-17 17:31:12,660 - Running system health checks...
+2024-08-17 17:31:12,669 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,669 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,669 - High memory usage detected: 87.4%
+2024-08-17 17:31:12,669 - High memory usage detected: 87.4%
+2024-08-17 17:31:12,669 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,670 - High memory usage detected: 87.4%
+2024-08-17 17:31:12,670 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,670 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,670 - Health checks completed.
+2024-08-17 17:31:12,670 - Health checks completed.
+2024-08-17 17:31:12,670 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,670 - Health checks completed.
+2024-08-17 17:31:12,673 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,673 - High memory usage detected: 87.4%
+2024-08-17 17:31:12,673 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,673 - Health checks completed.
+2024-08-17 17:31:12,677 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,677 - High memory usage detected: 87.4%
+2024-08-17 17:31:12,677 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,678 - Health checks completed.
+2024-08-17 17:31:12,681 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,681 - High memory usage detected: 87.4%
+2024-08-17 17:31:12,682 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,682 - Health checks completed.
+2024-08-17 17:31:12,684 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,684 - High memory usage detected: 87.4%
+2024-08-17 17:31:12,684 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,685 - Health checks completed.
+2024-08-17 17:31:12,685 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,685 - High memory usage detected: 87.4%
+2024-08-17 17:31:12,686 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,686 - High memory usage detected: 87.4%
+2024-08-17 17:31:12,687 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,687 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,687 - Health checks completed.
+2024-08-17 17:31:12,687 - High memory usage detected: 87.4%
+2024-08-17 17:31:12,687 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,687 - Health checks completed.
+2024-08-17 17:31:12,695 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,695 - High memory usage detected: 87.4%
+2024-08-17 17:31:12,696 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,696 - Health checks completed.
+2024-08-17 17:31:12,701 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,701 - High memory usage detected: 87.4%
+2024-08-17 17:31:12,701 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,702 - Health checks completed.
+2024-08-17 17:31:12,704 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,704 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,704 - High memory usage detected: 87.4%
+2024-08-17 17:31:12,704 - High memory usage detected: 87.4%
+2024-08-17 17:31:12,705 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,705 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,705 - Health checks completed.
+2024-08-17 17:31:12,705 - Health checks completed.
+2024-08-17 17:31:12,713 - High CPU usage detected: 99.3%
+2024-08-17 17:31:12,714 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,714 - High memory usage detected: 86.9%
+2024-08-17 17:31:12,714 - High memory usage detected: 86.9%
+2024-08-17 17:31:12,714 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,714 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,714 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,714 - Health checks completed.
+2024-08-17 17:31:12,714 - High memory usage detected: 86.9%
+2024-08-17 17:31:12,715 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,715 - High CPU usage detected: 99.3%
+2024-08-17 17:31:12,715 - Health checks completed.
+2024-08-17 17:31:12,715 - High memory usage detected: 86.9%
+2024-08-17 17:31:12,715 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,715 - Health checks completed.
+2024-08-17 17:31:12,719 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,720 - High memory usage detected: 86.9%
+2024-08-17 17:31:12,720 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,720 - Health checks completed.
+2024-08-17 17:31:12,721 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,721 - High memory usage detected: 86.9%
+2024-08-17 17:31:12,722 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,722 - Health checks completed.
+2024-08-17 17:31:12,725 - High CPU usage detected: 99.3%
+2024-08-17 17:31:12,726 - High memory usage detected: 86.9%
+2024-08-17 17:31:12,726 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,726 - Health checks completed.
+2024-08-17 17:31:12,733 - High CPU usage detected: 99.3%
+2024-08-17 17:31:12,733 - High memory usage detected: 86.5%
+2024-08-17 17:31:12,733 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,733 - Health checks completed.
+2024-08-17 17:31:12,741 - High CPU usage detected: 99.3%
+2024-08-17 17:31:12,741 - High memory usage detected: 85.9%
+2024-08-17 17:31:12,742 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,742 - Health checks completed.
+2024-08-17 17:31:12,714 - Health checks completed.
+2024-08-17 17:31:12,753 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,753 - High memory usage detected: 85.9%
+2024-08-17 17:31:12,753 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,753 - Health checks completed.
+2024-08-17 17:31:12,774 - Running system health checks...
+2024-08-17 17:31:12,776 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,776 - High memory usage detected: 85.3%
+2024-08-17 17:31:12,777 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,777 - Health checks completed.
+2024-08-17 17:31:12,810 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,838 - High memory usage detected: 83.0%
+2024-08-17 17:31:12,839 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,839 - Health checks completed.
+2024-08-17 17:31:12,846 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,847 - High memory usage detected: 83.0%
+2024-08-17 17:31:12,847 - High network traffic detected: 3877.18 MB
+2024-08-17 17:31:12,847 - Health checks completed.
+2024-08-17 17:31:12,858 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,858 - High memory usage detected: 82.5%
+2024-08-17 17:31:12,858 - High network traffic detected: 3877.18 MB
+2024-08-17 17:31:12,859 - Health checks completed.
+2024-08-17 17:31:12,860 - Running system health checks...
+2024-08-17 17:31:12,811 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,869 - High memory usage detected: 82.0%
+2024-08-17 17:31:12,869 - High network traffic detected: 3877.18 MB
+2024-08-17 17:31:12,869 - Health checks completed.
+2024-08-17 17:31:12,827 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,873 - High memory usage detected: 82.1%
+2024-08-17 17:31:12,874 - High network traffic detected: 3877.18 MB
+2024-08-17 17:31:12,874 - Health checks completed.
+2024-08-17 17:31:12,827 - High network traffic detected: 3877.17 MB
+2024-08-17 17:31:12,837 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,889 - Health checks completed.
+2024-08-17 17:31:12,889 - High memory usage detected: 81.7%
+2024-08-17 17:31:12,889 - High network traffic detected: 3877.18 MB
+2024-08-17 17:31:12,889 - Health checks completed.
+2024-08-17 17:31:12,901 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,901 - High memory usage detected: 81.2%
+2024-08-17 17:31:12,901 - High network traffic detected: 3877.18 MB
+2024-08-17 17:31:12,901 - Health checks completed.
+2024-08-17 17:31:12,918 - High CPU usage detected: 99.2%
+2024-08-17 17:31:12,919 - High memory usage detected: 80.4%
+2024-08-17 17:31:12,919 - High network traffic detected: 3877.18 MB
+2024-08-17 17:31:12,919 - Health checks completed.
+2024-08-17 17:31:12,936 - Running system health checks...
+2024-08-17 17:31:12,981 - Running system health checks...
+2024-08-17 17:31:12,983 - Running system health checks...
+2024-08-17 17:31:12,990 - Running system health checks...
+2024-08-17 17:31:12,997 - Running system health checks...
+2024-08-17 17:31:13,004 - Running system health checks...
+2024-08-17 17:31:13,016 - Running system health checks...
+2024-08-17 17:31:13,021 - Running system health checks...
+2024-08-17 17:31:13,045 - Running system health checks...
+2024-08-17 17:31:13,075 - High CPU usage detected: 99.3%
+2024-08-17 17:31:13,075 - High memory usage detected: 81.9%
+2024-08-17 17:31:13,074 - Running system health checks...
+2024-08-17 17:31:13,075 - High network traffic detected: 3877.22 MB
+2024-08-17 17:31:13,076 - Health checks completed.
+2024-08-17 17:31:13,102 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,103 - High memory usage detected: 82.2%
+2024-08-17 17:31:13,103 - High network traffic detected: 3877.23 MB
+2024-08-17 17:31:13,103 - Health checks completed.
+2024-08-17 17:31:13,171 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,171 - High memory usage detected: 82.4%
+2024-08-17 17:31:13,172 - High network traffic detected: 3877.26 MB
+2024-08-17 17:31:13,172 - Health checks completed.
+2024-08-17 17:31:13,188 - Running system health checks...
+2024-08-17 17:31:13,219 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,219 - High memory usage detected: 82.4%
+2024-08-17 17:31:13,219 - High network traffic detected: 3877.27 MB
+2024-08-17 17:31:13,219 - Running system health checks...
+2024-08-17 17:31:13,220 - Health checks completed.
+2024-08-17 17:31:13,226 - Running system health checks...
+2024-08-17 17:31:13,229 - Running system health checks...
+2024-08-17 17:31:13,233 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,233 - High memory usage detected: 82.0%
+2024-08-17 17:31:13,234 - High network traffic detected: 3877.27 MB
+2024-08-17 17:31:13,235 - Health checks completed.
+2024-08-17 17:31:13,240 - Running system health checks...
+2024-08-17 17:31:13,243 - Running system health checks...
+2024-08-17 17:31:13,263 - Running system health checks...
+2024-08-17 17:31:13,267 - Running system health checks...
+2024-08-17 17:31:13,277 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,278 - High memory usage detected: 82.5%
+2024-08-17 17:31:13,278 - High network traffic detected: 3877.28 MB
+2024-08-17 17:31:13,279 - Health checks completed.
+2024-08-17 17:31:13,298 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,299 - High memory usage detected: 82.7%
+2024-08-17 17:31:13,299 - High network traffic detected: 3877.29 MB
+2024-08-17 17:31:13,299 - Health checks completed.
+2024-08-17 17:31:13,313 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,314 - High memory usage detected: 82.3%
+2024-08-17 17:31:13,314 - High network traffic detected: 3877.29 MB
+2024-08-17 17:31:13,314 - Health checks completed.
+2024-08-17 17:31:13,324 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,324 - High memory usage detected: 82.3%
+2024-08-17 17:31:13,325 - High network traffic detected: 3877.29 MB
+2024-08-17 17:31:13,325 - Health checks completed.
+2024-08-17 17:31:13,325 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,325 - High memory usage detected: 82.3%
+2024-08-17 17:31:13,325 - High network traffic detected: 3877.29 MB
+2024-08-17 17:31:13,326 - Health checks completed.
+2024-08-17 17:31:13,352 - Running system health checks...
+2024-08-17 17:31:13,362 - Running system health checks...
+2024-08-17 17:31:13,368 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,368 - High memory usage detected: 82.2%
+2024-08-17 17:31:13,369 - High network traffic detected: 3877.32 MB
+2024-08-17 17:31:13,369 - Health checks completed.
+2024-08-17 17:31:13,369 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,369 - High memory usage detected: 82.2%
+2024-08-17 17:31:13,369 - High network traffic detected: 3877.32 MB
+2024-08-17 17:31:13,369 - Health checks completed.
+2024-08-17 17:31:13,413 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,413 - High memory usage detected: 81.5%
+2024-08-17 17:31:13,413 - High network traffic detected: 3877.34 MB
+2024-08-17 17:31:13,413 - Health checks completed.
+2024-08-17 17:31:13,427 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,428 - High memory usage detected: 81.6%
+2024-08-17 17:31:13,428 - High network traffic detected: 3877.35 MB
+2024-08-17 17:31:13,428 - Health checks completed.
+2024-08-17 17:31:13,445 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,446 - High memory usage detected: 81.0%
+2024-08-17 17:31:13,446 - High network traffic detected: 3877.35 MB
+2024-08-17 17:31:13,446 - Health checks completed.
+2024-08-17 17:31:13,449 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,450 - High memory usage detected: 81.0%
+2024-08-17 17:31:13,450 - High network traffic detected: 3877.35 MB
+2024-08-17 17:31:13,451 - Health checks completed.
+2024-08-17 17:31:13,457 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,457 - High memory usage detected: 81.1%
+2024-08-17 17:31:13,458 - High network traffic detected: 3877.35 MB
+2024-08-17 17:31:13,458 - Health checks completed.
+2024-08-17 17:31:13,464 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,479 - High memory usage detected: 81.1%
+2024-08-17 17:31:13,479 - High network traffic detected: 3877.36 MB
+2024-08-17 17:31:13,480 - Health checks completed.
+2024-08-17 17:31:13,485 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,485 - High memory usage detected: 81.1%
+2024-08-17 17:31:13,486 - High network traffic detected: 3877.36 MB
+2024-08-17 17:31:13,486 - Health checks completed.
+2024-08-17 17:31:13,489 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,489 - High memory usage detected: 81.1%
+2024-08-17 17:31:13,490 - High network traffic detected: 3877.36 MB
+2024-08-17 17:31:13,490 - Health checks completed.
+2024-08-17 17:31:13,493 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,493 - High memory usage detected: 81.1%
+2024-08-17 17:31:13,494 - High network traffic detected: 3877.36 MB
+2024-08-17 17:31:13,494 - Health checks completed.
+2024-08-17 17:31:13,497 - High CPU usage detected: 99.7%
+2024-08-17 17:31:13,497 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,497 - High memory usage detected: 80.6%
+2024-08-17 17:31:13,497 - High memory usage detected: 80.6%
+2024-08-17 17:31:13,498 - High network traffic detected: 3877.36 MB
+2024-08-17 17:31:13,498 - Health checks completed.
+2024-08-17 17:31:13,498 - High network traffic detected: 3877.36 MB
+2024-08-17 17:31:13,498 - Health checks completed.
+2024-08-17 17:31:13,511 - High CPU usage detected: 99.7%
+2024-08-17 17:31:13,511 - High memory usage detected: 80.7%
+2024-08-17 17:31:13,511 - High network traffic detected: 3877.36 MB
+2024-08-17 17:31:13,512 - Health checks completed.
+2024-08-17 17:31:13,537 - High CPU usage detected: 99.5%
+2024-08-17 17:31:13,538 - High memory usage detected: 80.2%
+2024-08-17 17:31:13,538 - High CPU usage detected: 99.7%
+2024-08-17 17:31:13,538 - High memory usage detected: 80.2%
+2024-08-17 17:31:13,538 - High network traffic detected: 3877.37 MB
+2024-08-17 17:31:13,538 - Health checks completed.
+2024-08-17 17:31:13,538 - High network traffic detected: 3877.37 MB
+2024-08-17 17:31:13,539 - Health checks completed.
+2024-08-17 17:31:13,549 - High CPU usage detected: 99.7%
+2024-08-17 17:31:13,549 - High memory usage detected: 80.3%
+2024-08-17 17:31:13,549 - High network traffic detected: 3877.37 MB
+2024-08-17 17:31:13,549 - Health checks completed.
+2024-08-17 17:31:13,561 - Running system health checks...
+2024-08-17 17:31:13,565 - High CPU usage detected: 99.7%
+2024-08-17 17:31:13,566 - High network traffic detected: 3877.37 MB
+2024-08-17 17:31:13,566 - Health checks completed.
+2024-08-17 17:31:13,625 - Running system health checks...
+2024-08-17 17:31:13,647 - High CPU usage detected: 99.7%
+2024-08-17 17:31:13,648 - High network traffic detected: 3877.38 MB
+2024-08-17 17:31:13,649 - Health checks completed.
+2024-08-17 17:31:13,662 - High CPU usage detected: 100.0%
+2024-08-17 17:31:13,663 - High network traffic detected: 3877.39 MB
+2024-08-17 17:31:13,663 - Health checks completed.
+2024-08-17 17:31:13,712 - Running system health checks...
+2024-08-17 17:31:13,759 - Running system health checks...
+2024-08-17 17:31:13,765 - Running system health checks...
+2024-08-17 17:31:13,776 - High CPU usage detected: 100.0%
+2024-08-17 17:31:13,779 - High network traffic detected: 3877.43 MB
+2024-08-17 17:31:13,780 - Health checks completed.
+2024-08-17 17:31:13,812 - Running system health checks...
+2024-08-17 17:31:13,859 - Running system health checks...
+2024-08-17 17:31:13,859 - Running system health checks...
+2024-08-17 17:31:13,865 - High CPU usage detected: 100.0%
+2024-08-17 17:31:13,866 - High network traffic detected: 3877.45 MB
+2024-08-17 17:31:13,866 - Health checks completed.
+2024-08-17 17:31:13,914 - Running system health checks...
+2024-08-17 17:31:13,922 - Running system health checks...
+2024-08-17 17:31:13,940 - High CPU usage detected: 100.0%
+2024-08-17 17:31:13,941 - High network traffic detected: 3877.46 MB
+2024-08-17 17:31:13,941 - Health checks completed.
+2024-08-17 17:31:13,958 - Running system health checks...
+2024-08-17 17:31:13,999 - High CPU usage detected: 100.0%
+2024-08-17 17:31:13,999 - High network traffic detected: 3877.48 MB
+2024-08-17 17:31:14,000 - Health checks completed.
+2024-08-17 17:31:14,002 - High CPU usage detected: 99.7%
+2024-08-17 17:31:14,002 - High CPU usage detected: 99.7%
+2024-08-17 17:31:14,002 - High CPU usage detected: 99.7%
+2024-08-17 17:31:14,003 - High network traffic detected: 3877.49 MB
+2024-08-17 17:31:14,003 - High network traffic detected: 3877.49 MB
+2024-08-17 17:31:14,003 - High network traffic detected: 3877.49 MB
+2024-08-17 17:31:14,003 - Health checks completed.
+2024-08-17 17:31:14,003 - Health checks completed.
+2024-08-17 17:31:14,003 - Health checks completed.
+2024-08-17 17:31:14,006 - High CPU usage detected: 99.7%
+2024-08-17 17:31:14,007 - High network traffic detected: 3877.49 MB
+2024-08-17 17:31:14,007 - Health checks completed.
+2024-08-17 17:31:14,025 - High CPU usage detected: 99.7%
+2024-08-17 17:31:14,026 - High network traffic detected: 3877.50 MB
+2024-08-17 17:31:14,026 - Health checks completed.
+2024-08-17 17:31:14,033 - High CPU usage detected: 99.7%
+2024-08-17 17:31:14,034 - High network traffic detected: 3877.50 MB
+2024-08-17 17:31:14,034 - Health checks completed.
+2024-08-17 17:31:14,047 - High CPU usage detected: 99.7%
+2024-08-17 17:31:14,047 - High network traffic detected: 3877.51 MB
+2024-08-17 17:31:14,047 - Health checks completed.
+2024-08-17 17:31:14,077 - High CPU usage detected: 99.5%
+2024-08-17 17:31:14,081 - High network traffic detected: 3877.54 MB
+2024-08-17 17:31:14,082 - Health checks completed.
+2024-08-17 17:31:14,189 - High CPU usage detected: 99.5%
+2024-08-17 17:31:14,195 - High network traffic detected: 3877.66 MB
+2024-08-17 17:31:14,196 - Health checks completed.
+2024-08-17 17:31:14,221 - High CPU usage detected: 99.5%
+2024-08-17 17:31:14,222 - High network traffic detected: 3877.69 MB
+2024-08-17 17:31:14,222 - Health checks completed.
+2024-08-17 17:31:14,229 - High CPU usage detected: 99.5%
+2024-08-17 17:31:14,230 - High network traffic detected: 3877.70 MB
+2024-08-17 17:31:14,230 - Health checks completed.
+2024-08-17 17:31:14,242 - High CPU usage detected: 99.5%
+2024-08-17 17:31:14,242 - High CPU usage detected: 99.5%
+2024-08-17 17:31:14,244 - High network traffic detected: 3877.70 MB
+2024-08-17 17:31:14,244 - Health checks completed.
+2024-08-17 17:31:14,244 - High network traffic detected: 3877.70 MB
+2024-08-17 17:31:14,244 - Health checks completed.
+2024-08-17 17:31:14,245 - High CPU usage detected: 99.5%
+2024-08-17 17:31:14,246 - High network traffic detected: 3877.71 MB
+2024-08-17 17:31:14,246 - Health checks completed.
+2024-08-17 17:31:14,265 - High CPU usage detected: 99.5%
+2024-08-17 17:31:14,265 - High network traffic detected: 3877.74 MB
+2024-08-17 17:31:14,265 - Health checks completed.
+2024-08-17 17:31:14,269 - High CPU usage detected: 99.5%
+2024-08-17 17:31:14,269 - High network traffic detected: 3877.75 MB
+2024-08-17 17:31:14,269 - Health checks completed.
+2024-08-17 17:31:14,363 - High CPU usage detected: 98.7%
+2024-08-17 17:31:14,364 - High network traffic detected: 3878.03 MB
+2024-08-17 17:31:14,364 - Health checks completed.
+2024-08-17 17:31:14,367 - High CPU usage detected: 98.7%
+2024-08-17 17:31:14,368 - High network traffic detected: 3878.03 MB
+2024-08-17 17:31:14,368 - Health checks completed.
+2024-08-17 17:31:14,563 - High CPU usage detected: 97.8%
+2024-08-17 17:31:14,565 - High network traffic detected: 3878.57 MB
+2024-08-17 17:31:14,565 - Health checks completed.
+2024-08-17 17:31:14,602 - Running system health checks...
+2024-08-17 17:31:14,642 - Running system health checks...
+2024-08-17 17:31:14,650 - High CPU usage detected: 97.9%
+2024-08-17 17:31:14,651 - High network traffic detected: 3878.76 MB
+2024-08-17 17:31:14,651 - Health checks completed.
+2024-08-17 17:31:14,713 - High CPU usage detected: 97.8%
+2024-08-17 17:31:14,713 - High network traffic detected: 3878.91 MB
+2024-08-17 17:31:14,713 - Health checks completed.
+2024-08-17 17:31:14,760 - High CPU usage detected: 97.5%
+2024-08-17 17:31:14,761 - High network traffic detected: 3879.03 MB
+2024-08-17 17:31:14,762 - Health checks completed.
+2024-08-17 17:31:14,770 - High CPU usage detected: 97.5%
+2024-08-17 17:31:14,771 - High network traffic detected: 3879.05 MB
+2024-08-17 17:31:14,771 - Health checks completed.
+2024-08-17 17:31:14,816 - High CPU usage detected: 96.7%
+2024-08-17 17:31:14,827 - High network traffic detected: 3879.23 MB
+2024-08-17 17:31:14,827 - Health checks completed.
+2024-08-17 17:31:14,861 - High CPU usage detected: 96.5%
+2024-08-17 17:31:14,862 - High network traffic detected: 3879.29 MB
+2024-08-17 17:31:14,862 - Health checks completed.
+2024-08-17 17:31:14,873 - High CPU usage detected: 96.5%
+2024-08-17 17:31:14,873 - High network traffic detected: 3879.30 MB
+2024-08-17 17:31:14,874 - Health checks completed.
+2024-08-17 17:31:14,916 - High CPU usage detected: 96.4%
+2024-08-17 17:31:14,918 - High network traffic detected: 3879.40 MB
+2024-08-17 17:31:14,918 - Health checks completed.
+2024-08-17 17:31:14,924 - High CPU usage detected: 96.4%
+2024-08-17 17:31:14,925 - High network traffic detected: 3879.40 MB
+2024-08-17 17:31:14,925 - Health checks completed.
+2024-08-17 17:31:14,964 - High CPU usage detected: 95.6%
+2024-08-17 17:31:14,965 - High network traffic detected: 3879.43 MB
+2024-08-17 17:31:14,965 - Health checks completed.
+2024-08-17 17:31:15,603 - High CPU usage detected: 72.8%
+2024-08-17 17:31:15,604 - High network traffic detected: 3879.66 MB
+2024-08-17 17:31:15,604 - Health checks completed.
+2024-08-17 17:31:15,643 - High CPU usage detected: 71.0%
+2024-08-17 17:31:15,644 - High network traffic detected: 3879.66 MB
+2024-08-17 17:31:15,644 - Health checks completed.
+2024-08-17 17:32:01,282 - Running system health checks...
+2024-08-17 17:32:02,286 - High network traffic detected: 3882.08 MB
+2024-08-17 17:32:02,286 - Health checks completed.
+2024-08-17 17:36:01,974 - Running system health checks...
+2024-08-17 17:36:02,982 - High network traffic detected: 3901.41 MB
+2024-08-17 17:36:02,983 - Health checks completed.
