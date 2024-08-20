@@ -1,0 +1,19 @@
+2024-08-20 16:32:54,411 - INFO - Task 2 Scheduler daemon started
+2024-08-20 16:32:54,418 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-20 16:32:54,419 - INFO - Added job "backup" to job store "default"
+2024-08-20 16:32:54,419 - INFO - Scheduler started
+2024-08-20 16:35:33,369 - INFO - Task 2 Scheduler daemon started
+2024-08-20 16:35:33,371 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-20 16:35:33,372 - INFO - Added job "backup" to job store "default"
+2024-08-20 16:35:33,372 - INFO - Scheduler started
+2024-08-20 16:37:59,930 - INFO - Task 2 Scheduler daemon started
+2024-08-20 16:37:59,932 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-20 16:37:59,933 - INFO - Added job "backup" to job store "default"
+2024-08-20 16:37:59,933 - INFO - Scheduler started
+2024-08-20 16:38:00,004 - INFO - Running job "backup (trigger: interval[0:01:00], next run at: 2024-08-20 16:38:00 IDT)" (scheduled at 2024-08-20 16:38:00+03:00)
+2024-08-20 16:38:00,004 - INFO - Running the backup scheduled task
+2024-08-20 16:38:00,004 - INFO - Start Backup directory: /home/jenin/Desktop/ASAL
+2024-08-20 16:38:00,038 - INFO - Backup created: /home/jenin/Desktop/python/Backup/ALLBackups/ASAL_backup_2024-08-20_16-38-00
+2024-08-20 16:38:00,052 - INFO - Compressed backup created: /home/jenin/Desktop/python/Backup/compressed_BackUps/ASAL_backup_2024-08-20_16-38-00.tar.gz
+2024-08-20 16:38:00,053 - INFO - Done Backup directory: /home/jenin/Desktop/ASAL
+2024-08-20 16:38:00,053 - INFO - Job "backup (trigger: interval[0:01:00], next run at: 2024-08-20 16:39:00 IDT)" executed successfully
