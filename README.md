@@ -38,6 +38,6 @@ Daemon Mode: Run the script as a background process for continuous monitoring an
 
 ## Running the Code
 ```plaintext
-To run the script, use:
+To run the script go to setup file , then use:
 
 ./main_script.sh
